@@ -1,0 +1,2 @@
+model_alias,provider,model,prompt_id,rows,structural_passes,structural_pass_rate,auto_accepts,auto_accept_rate,mean_word_count,exact_duplicate_rate,categories_covered
+llama70b,openrouter,meta-llama/llama-3.3-70b-instruct,P3_strict_interchangeability,300,258,0.86,258,0.86,5.573333333333333,0.07333333333333333,12

@@ -1,0 +1,2 @@
+model_alias,provider,model,prompt_id,rows,structural_passes,structural_pass_rate,auto_accepts,auto_accept_rate,mean_word_count,exact_duplicate_rate,categories_covered
+gpt4o,openai,gpt-4o,P3_strict_interchangeability,300,269,0.8966666666666666,269,0.8966666666666666,6.32,0.006666666666666667,12

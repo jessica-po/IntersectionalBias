@@ -1,0 +1,301 @@
+frame_id,model_alias,provider,model,prompt_id,category,category_label,frame_index,sentence_frame,word_count,auto_structural_valid,structural_errors,auto_accept,generation_attempt,model_returned_count,saved_count,human_natural,human_interchangeable,human_neutral,final_accept,exact_duplicate
+gpt4o__L1_physical__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,1,The device connects using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,2,Our system communicates through {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,3,Hardware employs {TECH} for connectivity.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,4,Equipment connects using {TECH} to transfer data.,7,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,5,Machines communicate through {TECH} effectively.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,6,The control unit uses {TECH} for physical linkage.,8,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,7,This device communicates via {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,8,The hardware system utilizes {TECH} for linking.,7,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,9,Machines rely on {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,10,The terminal connects via {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,11,Our equipment uses {TECH} to establish connections.,7,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,12,Device networks interact through {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,13,Equipment communicates using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L1_physical__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,14,Machines link using {TECH} technology.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,15,The platform communicates via {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,16,Systems employ {TECH} for communication.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,17,Hardware connects through {TECH} efficiently.,5,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L1_physical__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,18,Devices rely on {TECH} to connect.,6,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,19,This machine uses {TECH} for interaction.,6,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,20,Our system links using {TECH} protocols.,6,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,21,The hardware communicates via {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,22,Devices utilize {TECH} to interface.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,23,Equipment links using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L1_physical__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,24,Machines interact through {TECH} reliably.,5,True,,True,1,25,25,,,,,False
+gpt4o__L1_physical__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,L1 — Physical,25,The console connects using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,1,Devices communicate over {TECH} effectively.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,2,Hosts use {TECH} for local communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,3,Systems connect using {TECH} seamlessly.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,4,Nodes rely on {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,5,Networks operate through {TECH} fluently.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,6,Devices link via {TECH} efficiently.,5,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L2_data_link__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,7,Hosts exchange data over {TECH} readily.,6,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,8,Systems transmit messages through {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,9,Nodes share data using {TECH} directly.,6,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,10,Networks utilize {TECH} for connectivity.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,11,Devices sync using {TECH} reliably.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,12,Hosts connect over {TECH} dynamically.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,13,Systems interact through {TECH} smoothly.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,14,Nodes coordinate using {TECH} effectively.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,15,Networks engage in {TECH} for link management.,7,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,16,Devices synchronize via {TECH} accurately.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,17,Hosts communicate through {TECH} consistently.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,18,Systems establish links using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,19,Nodes interact over {TECH} purposefully.,5,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,20,Networks integrate via {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L2_data_link__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,21,Devices utilize {TECH} for seamless communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,22,Hosts rely on {TECH} for better coordination.,7,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,23,Systems employ {TECH} for local link management.,7,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,24,Nodes depend on {TECH} for network exchanges.,7,True,,True,1,25,25,,,,,False
+gpt4o__L2_data_link__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,L2 — Data Link,25,Networks communicate using {TECH} efficiently.,5,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L3_network__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,1,Networks communicate using {TECH} for efficiency.,6,False,specificity_cue:efficiency,False,1,25,25,,,,,False
+gpt4o__L3_network__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,2,Systems rely on {TECH} for stable communication.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,3,Hosts use {TECH} to maintain connectivity.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,4,Nodes communicate with each other using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,5,Devices depend on {TECH} for data exchange.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,6,Networks rely on {TECH} to manage traffic.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,7,Systems use {TECH} for seamless communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,8,Hosts communicate effectively with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,9,Nodes utilize {TECH} for consistent messaging.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,10,Devices communicate using {TECH} for integration.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,11,Networks depend on {TECH} for message relaying.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,12,Systems use {TECH} for quick connectivity.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,13,Hosts rely on {TECH} to bridge connections.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,14,Nodes communicate efficiently using {TECH}.,5,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L3_network__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,15,Devices use {TECH} to exchange information.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,16,Networks utilize {TECH} for structured communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,17,Systems use {TECH} to handle network traffic.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,18,Hosts rely on {TECH} for reliable interactions.,7,False,specificity_cue:reliable,False,1,25,25,,,,,False
+gpt4o__L3_network__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,19,Nodes use {TECH} to sustain communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,20,Devices rely on {TECH} for connectivity.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,21,Networks use {TECH} for transmission control.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,22,Systems depend on {TECH} for efficient routing.,7,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L3_network__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,23,Hosts utilize {TECH} to manage communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,24,Nodes rely on {TECH} for packet delivery.,7,True,,True,1,25,25,,,,,False
+gpt4o__L3_network__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,L3 — Network,25,Devices use {TECH} for unified communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,1,The service communicates using {TECH}.,5,True,,True,1,25,25,,,,,True
+gpt4o__L4_transport__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,2,Applications exchange data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,3,Components use {TECH} for communication.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,4,The backend communicates using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,5,Nodes exchange data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,6,Services use {TECH} for communication.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,7,The system communicates using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,8,Applications use {TECH} for data exchange.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,9,Services communicate using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L4_transport__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,10,Components exchange data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,11,The application uses {TECH} for data exchange.,7,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,12,Backend services communicate using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,13,Nodes use {TECH} for communication.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,14,The system uses {TECH} for data exchange.,7,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,15,Components communicate using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L4_transport__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,16,The application exchanges data using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,17,Nodes communicate using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L4_transport__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,18,Backend components use {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,19,Services exchange data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,20,The system exchanges data using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,21,Applications communicate using {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L4_transport__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,22,Components use {TECH} to exchange data.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,23,The backend uses {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,24,Services use {TECH} to exchange data.,6,True,,True,1,25,25,,,,,False
+gpt4o__L4_transport__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,L4 — Transport,25,Nodes use {TECH} for data communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,1,The system relies on {TECH} for session management.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,2,The application connects through {TECH} to manage sessions.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,3,The service uses {TECH} for remote session handling.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,4,The components communicate using {TECH} for session control.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,5,Machines rely on {TECH} for effective session interaction.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,6,Services connect through {TECH} for seamless session processes.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,7,The system uses {TECH} to facilitate session operations.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,8,The application relies on {TECH} to handle remote sessions.,9,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,9,The service connects through {TECH} for efficient session exchange.,9,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L5_session__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,10,Components use {TECH} to ensure session continuity.,7,False,specificity_cue:to ensure,False,1,25,25,,,,,False
+gpt4o__L5_session__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,11,Machines connect through {TECH} to engage in sessions.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,12,Services rely on {TECH} to oversee session connections.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,13,The system connects through {TECH} for session interactions.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,14,The application uses {TECH} for its session activities.,8,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__L5_session__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,15,The service relies on {TECH} for session coordination.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,16,The components interact via {TECH} during sessions.,7,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,17,Machines use {TECH} to maintain session communication.,7,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,18,Services connect through {TECH} to manage session flow.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,19,The system relies on {TECH} for remote system interactions.,9,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,20,The application connects using {TECH} for session tasks.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,21,The service uses {TECH} within remote session frameworks.,8,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,22,Components connect through {TECH} amid session processes.,7,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,23,Machines leverage {TECH} for extensive session handling.,7,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,24,Services integrate {TECH} for consistent session management.,7,True,,True,1,25,25,,,,,False
+gpt4o__L5_session__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,L5 — Session,25,The system uses {TECH} to achieve session functionality.,8,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,1,The application uses {TECH} for data representation.,7,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,2,Content is formatted through {TECH} for clarity.,7,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,3,Data is presented using {TECH} techniques.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,4,The service encodes information with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,5,The system leverages {TECH} for consistent layout.,7,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,6,Components handle data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,7,The application formats output through {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,8,Information is encoded using {TECH} efficiently.,6,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__L6_presentation__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,9,Data visualization relies on {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,10,Reports are generated using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,11,Details are structured with {TECH} in mind.,7,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,12,The content uses {TECH} for structured display.,7,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,13,Data flow is managed through {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,14,Reports benefit from {TECH} usage.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,15,The application presents metrics with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,16,Visualizations are created using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,17,Encoding processes utilize {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L6_presentation__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,18,The system organizes data via {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,19,Content delivery uses {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L6_presentation__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,20,Data objects are handled with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,21,Information distribution employs {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L6_presentation__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,22,Components display data using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,23,The format is achieved through {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,24,The system represents data via {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L6_presentation__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,L6 — Presentation,25,Content presentation integrates {TECH}.,4,False,too_short,False,1,25,25,,,,,False
+gpt4o__L7_application__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,1,The application communicates using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,2,Our system uses {TECH} for application communication.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,3,Each service communicates using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,4,Client components use {TECH} for network services.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,5,Backend systems communicate using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,6,Multiple applications use {TECH} for networking.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,7,Services interact by using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,8,The client uses {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,9,The service communicates using {TECH}.,5,True,,True,1,25,25,,,,,True
+gpt4o__L7_application__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,10,The system relies on {TECH} for network services.,8,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,11,Components use {TECH} for communication purposes.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,12,Our services communicate via {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,13,Systems communicate with each other using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,14,The backend service uses {TECH} to communicate.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,15,The client application uses {TECH} for interaction.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,16,Application components communicate through {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,17,The existing system uses {TECH} for its network activities.,9,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__L7_application__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,18,Services coordinate using {TECH} for network communication.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,19,The software application communicates via {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,20,Our platform utilizes {TECH} for communication.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,21,Interactive services use {TECH} to stay connected.,7,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,22,The application employs {TECH} for its operations.,7,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__L7_application__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,23,The service layer operates using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,24,Numerous applications depend on {TECH} for network communication.,8,True,,True,1,25,25,,,,,False
+gpt4o__L7_application__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,L7 — Application,25,The backend system coordinates through {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",1,Developers work with {TECH} during implementation.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",2,The project uses {TECH} for scripting tasks.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",3,Engineers define web content using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",4,The software implements solutions via {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",5,Codebase incorporates functionality with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",6,The team employs {TECH} in development.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",7,Developers write modules using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",8,The project integrates components via {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",9,Engineers utilize {TECH} for software creation.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",10,The team crafts web features with {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",11,Codebase is developed using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",12,The project leverages {TECH} for structure.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",13,Developers implement changes with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",14,Software integrates elements through {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",15,The team designs interfaces using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",16,Engineers handle modifications with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",17,The project employs {TECH} during scripting.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",18,Developers create applications with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",19,The team uses {TECH} in their workflow.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",20,Software employs {TECH} for backend logic.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",21,Engineers develop tools with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",22,The codebase integrates {TECH} seamlessly.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",23,The project builds frameworks using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",24,Developers maintain scripts with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,"Programming, Scripting, and Markup Languages",25,The team engages with {TECH} routinely.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,1,The application relies on {TECH} for data storage.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,2,Developers use {TECH} for application data storage.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,3,Our system stores application data using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,4,The project depends on {TECH} for data management.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,5,The service stores its data with {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,6,Our backend relies on {TECH} for data handling.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,7,The application uses {TECH} for managing its data.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,8,Engineers rely on {TECH} to store application data.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,9,The team manages data with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,10,The system uses {TECH} for database needs.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,11,Our project stores essential data in {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,12,The backend utilizes {TECH} for its data requirements.,8,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,13,The service manages application data through {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,14,Developers rely on {TECH} for data management.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,15,The team stores the application data using {TECH}.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,16,Our application utilizes {TECH} for data purposes.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,17,The project team relies on {TECH} for storage.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,18,The system manages its data collection with {TECH}.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,19,The application uses {TECH} for its data strategy.,8,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,20,The backend application data is managed with {TECH}.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,21,The project stores its data using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,22,Our service relies on {TECH} for storing data.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,23,Engineers use {TECH} as the database for projects.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,24,The team uses {TECH} for storing application data.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Databases,25,Our system relies on {TECH} for all data tasks.,9,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,1,The project workflow incorporates {TECH} seamlessly.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,2,Developers use {TECH} in their cloud deployments.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,3,The team relies on {TECH} during application deployments.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,4,Engineers integrate {TECH} into the development process.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,5,The application workflow benefits from using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,6,The project embraces {TECH} for efficient development.,7,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,7,Developers work with {TECH} in their cloud strategies.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,8,The development workflow leverages {TECH} for synergy.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,9,The team collaborates with {TECH} throughout the project.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,10,Engineers include {TECH} in their deployment workflows.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,11,The project engages {TECH} effectively in its process.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,12,Developers implement {TECH} into their cloud frameworks.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,13,The team employs {TECH} to streamline their efforts.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,14,Engineers incorporate {TECH} into their toolset.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,15,Application workflow actively utilizes {TECH} for tasks.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,16,The project's success involves using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,17,Developers find value in {TECH} during deployment.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,18,The workflow depends on {TECH} for cloud integration.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,19,The team enhances processes using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,20,Engineers engage {TECH} for cloud-based solutions.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,21,The application workflow uses {TECH} for cloud tasks.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,22,Developers align their workflow with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,23,The team efficiently utilizes {TECH} in their projects.,8,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,24,Engineers integrate {TECH} smoothly into activities.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Cloud Development,25,The project flow revolves around using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,1,The team uses {TECH} for the project.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,2,Developers choose {TECH} for building our site.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,3,The development team integrates {TECH} in the project.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,4,The web application runs on {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,5,Our application employs {TECH} effectively.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,6,Developers rely on {TECH} for fast deployment.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,7,The engineers implement features using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,8,The web project incorporates {TECH} successfully.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,9,The team adopts {TECH} in web development.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,10,The application is crafted with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,11,Developers work on the site using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,12,Our engineers utilize {TECH} constantly.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,13,The project benefits from {TECH} integration.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,14,The application evolves with {TECH} adoption.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,15,The development team builds with {TECH} expertise.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,16,The web application depends on {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,17,Our project leverages {TECH} for design.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,18,Developers integrate {TECH} into the site.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,19,The engineers enhance the site using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,20,The team collaborates with {TECH} flexibility.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,21,The application scales with {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,22,Developers implement solutions using {TECH}.,5,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,23,The project thrives with {TECH} support.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,24,Our engineers develop the site with {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Web Frameworks and Technologies,25,The development process includes {TECH} involvement.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,1,Developers prefer editing code in {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,2,Engineers use {TECH} to refine their code.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,3,A developer often relies on {TECH} for coding tasks.,9,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,4,Teams frequently use {TECH} for software editing.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,5,Many developers work in {TECH} during development.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,6,The engineer enjoys coding with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,7,Developers switch to {TECH} for source code editing.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,8,Engineers choose {TECH} for efficient coding.,6,False,specificity_cue:efficient,False,1,25,25,,,,,False
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,9,The team collaborates in {TECH} throughout the project.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,10,Developers often begin coding with {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,11,An engineer edits scripts using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,12,The software team uses {TECH} for daily tasks.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,13,Coding happens smoothly for developers in {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,14,Engineers refine their projects in {TECH} daily.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,15,The team updates code regularly in {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,16,A software engineer develops projects using {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,17,Developers start new projects in {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,18,An engineer prefers {TECH} for its interface.,7,False,specificity_cue:for its,False,1,25,25,,,,,False
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,19,The team often discusses work done in {TECH}.,8,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,20,Developers write new features in {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,21,The engineer spends time coding in {TECH}.,7,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,22,Developers rely on {TECH} for editing efficiency.,7,False,specificity_cue:efficiency,False,1,25,25,,,,,False
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,23,The team finalizes changes in {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,24,Many engineers compile code using {TECH}.,6,True,,True,1,25,25,,,,,False
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Development IDEs and Editors,25,A developer revises code within {TECH}.,6,True,,True,1,25,25,,,,,False

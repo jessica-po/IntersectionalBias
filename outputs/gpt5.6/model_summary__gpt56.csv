@@ -1,0 +1,2 @@
+model_alias,provider,model,prompt_id,rows,structural_passes,structural_pass_rate,auto_accepts,auto_accept_rate,mean_word_count,exact_duplicate_rate,categories_covered
+gpt56,openai,gpt-5.6,P3_strict_interchangeability,300,299,0.9966666666666667,299,0.9966666666666667,8.42,0.0,12

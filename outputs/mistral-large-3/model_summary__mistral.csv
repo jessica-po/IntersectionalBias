@@ -1,0 +1,2 @@
+model_alias,provider,model,prompt_id,rows,structural_passes,structural_pass_rate,auto_accepts,auto_accept_rate,mean_word_count,exact_duplicate_rate,categories_covered
+mistral,mistral,mistral-large-2512,P3_strict_interchangeability,300,278,0.9266666666666666,278,0.9266666666666666,6.1033333333333335,0.02,12

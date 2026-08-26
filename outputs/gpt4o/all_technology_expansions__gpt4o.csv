@@ -1,0 +1,1326 @@
+frame_id,model_alias,provider,model,prompt_id,category,technology,sentence,auto_accept
+gpt4o__L1_physical__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The device connects using USB.,True
+gpt4o__L1_physical__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The device connects using Ethernet.,True
+gpt4o__L1_physical__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The device connects using Bluetooth.,True
+gpt4o__L1_physical__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The device connects using NPC.,True
+gpt4o__L1_physical__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Our system communicates through USB.,True
+gpt4o__L1_physical__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Our system communicates through Ethernet.,True
+gpt4o__L1_physical__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Our system communicates through Bluetooth.,True
+gpt4o__L1_physical__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Our system communicates through NPC.,True
+gpt4o__L1_physical__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Hardware employs USB for connectivity.,True
+gpt4o__L1_physical__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Hardware employs Ethernet for connectivity.,True
+gpt4o__L1_physical__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Hardware employs Bluetooth for connectivity.,True
+gpt4o__L1_physical__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Hardware employs NPC for connectivity.,True
+gpt4o__L1_physical__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Equipment connects using USB to transfer data.,True
+gpt4o__L1_physical__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Equipment connects using Ethernet to transfer data.,True
+gpt4o__L1_physical__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Equipment connects using Bluetooth to transfer data.,True
+gpt4o__L1_physical__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Equipment connects using NPC to transfer data.,True
+gpt4o__L1_physical__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Machines communicate through USB effectively.,True
+gpt4o__L1_physical__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Machines communicate through Ethernet effectively.,True
+gpt4o__L1_physical__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Machines communicate through Bluetooth effectively.,True
+gpt4o__L1_physical__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Machines communicate through NPC effectively.,True
+gpt4o__L1_physical__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The control unit uses USB for physical linkage.,True
+gpt4o__L1_physical__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The control unit uses Ethernet for physical linkage.,True
+gpt4o__L1_physical__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The control unit uses Bluetooth for physical linkage.,True
+gpt4o__L1_physical__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The control unit uses NPC for physical linkage.,True
+gpt4o__L1_physical__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,This device communicates via USB.,True
+gpt4o__L1_physical__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,This device communicates via Ethernet.,True
+gpt4o__L1_physical__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,This device communicates via Bluetooth.,True
+gpt4o__L1_physical__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,This device communicates via NPC.,True
+gpt4o__L1_physical__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The hardware system utilizes USB for linking.,True
+gpt4o__L1_physical__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The hardware system utilizes Ethernet for linking.,True
+gpt4o__L1_physical__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The hardware system utilizes Bluetooth for linking.,True
+gpt4o__L1_physical__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The hardware system utilizes NPC for linking.,True
+gpt4o__L1_physical__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Machines rely on USB for communication.,True
+gpt4o__L1_physical__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Machines rely on Ethernet for communication.,True
+gpt4o__L1_physical__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Machines rely on Bluetooth for communication.,True
+gpt4o__L1_physical__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Machines rely on NPC for communication.,True
+gpt4o__L1_physical__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The terminal connects via USB.,True
+gpt4o__L1_physical__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The terminal connects via Ethernet.,True
+gpt4o__L1_physical__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The terminal connects via Bluetooth.,True
+gpt4o__L1_physical__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The terminal connects via NPC.,True
+gpt4o__L1_physical__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Our equipment uses USB to establish connections.,True
+gpt4o__L1_physical__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Our equipment uses Ethernet to establish connections.,True
+gpt4o__L1_physical__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Our equipment uses Bluetooth to establish connections.,True
+gpt4o__L1_physical__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Our equipment uses NPC to establish connections.,True
+gpt4o__L1_physical__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Device networks interact through USB.,True
+gpt4o__L1_physical__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Device networks interact through Ethernet.,True
+gpt4o__L1_physical__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Device networks interact through Bluetooth.,True
+gpt4o__L1_physical__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Device networks interact through NPC.,True
+gpt4o__L1_physical__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Equipment communicates using USB.,False
+gpt4o__L1_physical__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Equipment communicates using Ethernet.,False
+gpt4o__L1_physical__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Equipment communicates using Bluetooth.,False
+gpt4o__L1_physical__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Equipment communicates using NPC.,False
+gpt4o__L1_physical__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Machines link using USB technology.,True
+gpt4o__L1_physical__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Machines link using Ethernet technology.,True
+gpt4o__L1_physical__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Machines link using Bluetooth technology.,True
+gpt4o__L1_physical__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Machines link using NPC technology.,True
+gpt4o__L1_physical__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The platform communicates via USB.,True
+gpt4o__L1_physical__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The platform communicates via Ethernet.,True
+gpt4o__L1_physical__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The platform communicates via Bluetooth.,True
+gpt4o__L1_physical__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The platform communicates via NPC.,True
+gpt4o__L1_physical__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Systems employ USB for communication.,True
+gpt4o__L1_physical__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Systems employ Ethernet for communication.,True
+gpt4o__L1_physical__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Systems employ Bluetooth for communication.,True
+gpt4o__L1_physical__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Systems employ NPC for communication.,True
+gpt4o__L1_physical__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Hardware connects through USB efficiently.,False
+gpt4o__L1_physical__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Hardware connects through Ethernet efficiently.,False
+gpt4o__L1_physical__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Hardware connects through Bluetooth efficiently.,False
+gpt4o__L1_physical__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Hardware connects through NPC efficiently.,False
+gpt4o__L1_physical__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Devices rely on USB to connect.,True
+gpt4o__L1_physical__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Devices rely on Ethernet to connect.,True
+gpt4o__L1_physical__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Devices rely on Bluetooth to connect.,True
+gpt4o__L1_physical__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Devices rely on NPC to connect.,True
+gpt4o__L1_physical__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,This machine uses USB for interaction.,True
+gpt4o__L1_physical__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,This machine uses Ethernet for interaction.,True
+gpt4o__L1_physical__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,This machine uses Bluetooth for interaction.,True
+gpt4o__L1_physical__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,This machine uses NPC for interaction.,True
+gpt4o__L1_physical__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Our system links using USB protocols.,True
+gpt4o__L1_physical__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Our system links using Ethernet protocols.,True
+gpt4o__L1_physical__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Our system links using Bluetooth protocols.,True
+gpt4o__L1_physical__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Our system links using NPC protocols.,True
+gpt4o__L1_physical__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The hardware communicates via USB.,True
+gpt4o__L1_physical__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The hardware communicates via Ethernet.,True
+gpt4o__L1_physical__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The hardware communicates via Bluetooth.,True
+gpt4o__L1_physical__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The hardware communicates via NPC.,True
+gpt4o__L1_physical__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Devices utilize USB to interface.,True
+gpt4o__L1_physical__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Devices utilize Ethernet to interface.,True
+gpt4o__L1_physical__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Devices utilize Bluetooth to interface.,True
+gpt4o__L1_physical__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Devices utilize NPC to interface.,True
+gpt4o__L1_physical__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Equipment links using USB.,False
+gpt4o__L1_physical__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Equipment links using Ethernet.,False
+gpt4o__L1_physical__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Equipment links using Bluetooth.,False
+gpt4o__L1_physical__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Equipment links using NPC.,False
+gpt4o__L1_physical__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,Machines interact through USB reliably.,True
+gpt4o__L1_physical__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,Machines interact through Ethernet reliably.,True
+gpt4o__L1_physical__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,Machines interact through Bluetooth reliably.,True
+gpt4o__L1_physical__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,Machines interact through NPC reliably.,True
+gpt4o__L1_physical__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,USB,The console connects using USB.,True
+gpt4o__L1_physical__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Ethernet,The console connects using Ethernet.,True
+gpt4o__L1_physical__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,Bluetooth,The console connects using Bluetooth.,True
+gpt4o__L1_physical__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L1_physical,NPC,The console connects using NPC.,True
+gpt4o__L2_data_link__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Devices communicate over HDLC effectively.,True
+gpt4o__L2_data_link__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Devices communicate over Ethernet effectively.,True
+gpt4o__L2_data_link__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Devices communicate over Wi-Fi effectively.,True
+gpt4o__L2_data_link__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Devices communicate over PPP effectively.,True
+gpt4o__L2_data_link__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Hosts use HDLC for local communication.,True
+gpt4o__L2_data_link__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Hosts use Ethernet for local communication.,True
+gpt4o__L2_data_link__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Hosts use Wi-Fi for local communication.,True
+gpt4o__L2_data_link__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Hosts use PPP for local communication.,True
+gpt4o__L2_data_link__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Systems connect using HDLC seamlessly.,True
+gpt4o__L2_data_link__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Systems connect using Ethernet seamlessly.,True
+gpt4o__L2_data_link__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Systems connect using Wi-Fi seamlessly.,True
+gpt4o__L2_data_link__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Systems connect using PPP seamlessly.,True
+gpt4o__L2_data_link__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Nodes rely on HDLC for communication.,True
+gpt4o__L2_data_link__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Nodes rely on Ethernet for communication.,True
+gpt4o__L2_data_link__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Nodes rely on Wi-Fi for communication.,True
+gpt4o__L2_data_link__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Nodes rely on PPP for communication.,True
+gpt4o__L2_data_link__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Networks operate through HDLC fluently.,True
+gpt4o__L2_data_link__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Networks operate through Ethernet fluently.,True
+gpt4o__L2_data_link__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Networks operate through Wi-Fi fluently.,True
+gpt4o__L2_data_link__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Networks operate through PPP fluently.,True
+gpt4o__L2_data_link__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Devices link via HDLC efficiently.,False
+gpt4o__L2_data_link__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Devices link via Ethernet efficiently.,False
+gpt4o__L2_data_link__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Devices link via Wi-Fi efficiently.,False
+gpt4o__L2_data_link__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Devices link via PPP efficiently.,False
+gpt4o__L2_data_link__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Hosts exchange data over HDLC readily.,True
+gpt4o__L2_data_link__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Hosts exchange data over Ethernet readily.,True
+gpt4o__L2_data_link__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Hosts exchange data over Wi-Fi readily.,True
+gpt4o__L2_data_link__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Hosts exchange data over PPP readily.,True
+gpt4o__L2_data_link__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Systems transmit messages through HDLC.,True
+gpt4o__L2_data_link__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Systems transmit messages through Ethernet.,True
+gpt4o__L2_data_link__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Systems transmit messages through Wi-Fi.,True
+gpt4o__L2_data_link__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Systems transmit messages through PPP.,True
+gpt4o__L2_data_link__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Nodes share data using HDLC directly.,True
+gpt4o__L2_data_link__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Nodes share data using Ethernet directly.,True
+gpt4o__L2_data_link__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Nodes share data using Wi-Fi directly.,True
+gpt4o__L2_data_link__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Nodes share data using PPP directly.,True
+gpt4o__L2_data_link__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Networks utilize HDLC for connectivity.,True
+gpt4o__L2_data_link__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Networks utilize Ethernet for connectivity.,True
+gpt4o__L2_data_link__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Networks utilize Wi-Fi for connectivity.,True
+gpt4o__L2_data_link__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Networks utilize PPP for connectivity.,True
+gpt4o__L2_data_link__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Devices sync using HDLC reliably.,True
+gpt4o__L2_data_link__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Devices sync using Ethernet reliably.,True
+gpt4o__L2_data_link__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Devices sync using Wi-Fi reliably.,True
+gpt4o__L2_data_link__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Devices sync using PPP reliably.,True
+gpt4o__L2_data_link__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Hosts connect over HDLC dynamically.,True
+gpt4o__L2_data_link__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Hosts connect over Ethernet dynamically.,True
+gpt4o__L2_data_link__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Hosts connect over Wi-Fi dynamically.,True
+gpt4o__L2_data_link__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Hosts connect over PPP dynamically.,True
+gpt4o__L2_data_link__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Systems interact through HDLC smoothly.,True
+gpt4o__L2_data_link__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Systems interact through Ethernet smoothly.,True
+gpt4o__L2_data_link__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Systems interact through Wi-Fi smoothly.,True
+gpt4o__L2_data_link__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Systems interact through PPP smoothly.,True
+gpt4o__L2_data_link__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Nodes coordinate using HDLC effectively.,True
+gpt4o__L2_data_link__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Nodes coordinate using Ethernet effectively.,True
+gpt4o__L2_data_link__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Nodes coordinate using Wi-Fi effectively.,True
+gpt4o__L2_data_link__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Nodes coordinate using PPP effectively.,True
+gpt4o__L2_data_link__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Networks engage in HDLC for link management.,True
+gpt4o__L2_data_link__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Networks engage in Ethernet for link management.,True
+gpt4o__L2_data_link__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Networks engage in Wi-Fi for link management.,True
+gpt4o__L2_data_link__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Networks engage in PPP for link management.,True
+gpt4o__L2_data_link__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Devices synchronize via HDLC accurately.,True
+gpt4o__L2_data_link__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Devices synchronize via Ethernet accurately.,True
+gpt4o__L2_data_link__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Devices synchronize via Wi-Fi accurately.,True
+gpt4o__L2_data_link__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Devices synchronize via PPP accurately.,True
+gpt4o__L2_data_link__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Hosts communicate through HDLC consistently.,True
+gpt4o__L2_data_link__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Hosts communicate through Ethernet consistently.,True
+gpt4o__L2_data_link__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Hosts communicate through Wi-Fi consistently.,True
+gpt4o__L2_data_link__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Hosts communicate through PPP consistently.,True
+gpt4o__L2_data_link__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Systems establish links using HDLC.,True
+gpt4o__L2_data_link__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Systems establish links using Ethernet.,True
+gpt4o__L2_data_link__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Systems establish links using Wi-Fi.,True
+gpt4o__L2_data_link__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Systems establish links using PPP.,True
+gpt4o__L2_data_link__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Nodes interact over HDLC purposefully.,True
+gpt4o__L2_data_link__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Nodes interact over Ethernet purposefully.,True
+gpt4o__L2_data_link__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Nodes interact over Wi-Fi purposefully.,True
+gpt4o__L2_data_link__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Nodes interact over PPP purposefully.,True
+gpt4o__L2_data_link__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Networks integrate via HDLC.,False
+gpt4o__L2_data_link__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Networks integrate via Ethernet.,False
+gpt4o__L2_data_link__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Networks integrate via Wi-Fi.,False
+gpt4o__L2_data_link__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Networks integrate via PPP.,False
+gpt4o__L2_data_link__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Devices utilize HDLC for seamless communication.,True
+gpt4o__L2_data_link__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Devices utilize Ethernet for seamless communication.,True
+gpt4o__L2_data_link__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Devices utilize Wi-Fi for seamless communication.,True
+gpt4o__L2_data_link__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Devices utilize PPP for seamless communication.,True
+gpt4o__L2_data_link__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Hosts rely on HDLC for better coordination.,True
+gpt4o__L2_data_link__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Hosts rely on Ethernet for better coordination.,True
+gpt4o__L2_data_link__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Hosts rely on Wi-Fi for better coordination.,True
+gpt4o__L2_data_link__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Hosts rely on PPP for better coordination.,True
+gpt4o__L2_data_link__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Systems employ HDLC for local link management.,True
+gpt4o__L2_data_link__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Systems employ Ethernet for local link management.,True
+gpt4o__L2_data_link__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Systems employ Wi-Fi for local link management.,True
+gpt4o__L2_data_link__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Systems employ PPP for local link management.,True
+gpt4o__L2_data_link__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Nodes depend on HDLC for network exchanges.,True
+gpt4o__L2_data_link__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Nodes depend on Ethernet for network exchanges.,True
+gpt4o__L2_data_link__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Nodes depend on Wi-Fi for network exchanges.,True
+gpt4o__L2_data_link__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Nodes depend on PPP for network exchanges.,True
+gpt4o__L2_data_link__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,HDLC,Networks communicate using HDLC efficiently.,False
+gpt4o__L2_data_link__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Ethernet,Networks communicate using Ethernet efficiently.,False
+gpt4o__L2_data_link__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,Wi-Fi,Networks communicate using Wi-Fi efficiently.,False
+gpt4o__L2_data_link__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L2_data_link,PPP,Networks communicate using PPP efficiently.,False
+gpt4o__L3_network__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Networks communicate using IP for efficiency.,False
+gpt4o__L3_network__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Networks communicate using ICMP for efficiency.,False
+gpt4o__L3_network__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Networks communicate using IGMP for efficiency.,False
+gpt4o__L3_network__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Networks communicate using IPsec for efficiency.,False
+gpt4o__L3_network__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Systems rely on IP for stable communication.,True
+gpt4o__L3_network__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Systems rely on ICMP for stable communication.,True
+gpt4o__L3_network__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Systems rely on IGMP for stable communication.,True
+gpt4o__L3_network__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Systems rely on IPsec for stable communication.,True
+gpt4o__L3_network__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Hosts use IP to maintain connectivity.,True
+gpt4o__L3_network__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Hosts use ICMP to maintain connectivity.,True
+gpt4o__L3_network__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Hosts use IGMP to maintain connectivity.,True
+gpt4o__L3_network__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Hosts use IPsec to maintain connectivity.,True
+gpt4o__L3_network__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Nodes communicate with each other using IP.,True
+gpt4o__L3_network__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Nodes communicate with each other using ICMP.,True
+gpt4o__L3_network__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Nodes communicate with each other using IGMP.,True
+gpt4o__L3_network__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Nodes communicate with each other using IPsec.,True
+gpt4o__L3_network__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Devices depend on IP for data exchange.,True
+gpt4o__L3_network__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Devices depend on ICMP for data exchange.,True
+gpt4o__L3_network__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Devices depend on IGMP for data exchange.,True
+gpt4o__L3_network__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Devices depend on IPsec for data exchange.,True
+gpt4o__L3_network__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Networks rely on IP to manage traffic.,True
+gpt4o__L3_network__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Networks rely on ICMP to manage traffic.,True
+gpt4o__L3_network__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Networks rely on IGMP to manage traffic.,True
+gpt4o__L3_network__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Networks rely on IPsec to manage traffic.,True
+gpt4o__L3_network__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Systems use IP for seamless communication.,True
+gpt4o__L3_network__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Systems use ICMP for seamless communication.,True
+gpt4o__L3_network__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Systems use IGMP for seamless communication.,True
+gpt4o__L3_network__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Systems use IPsec for seamless communication.,True
+gpt4o__L3_network__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Hosts communicate effectively with IP.,True
+gpt4o__L3_network__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Hosts communicate effectively with ICMP.,True
+gpt4o__L3_network__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Hosts communicate effectively with IGMP.,True
+gpt4o__L3_network__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Hosts communicate effectively with IPsec.,True
+gpt4o__L3_network__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Nodes utilize IP for consistent messaging.,True
+gpt4o__L3_network__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Nodes utilize ICMP for consistent messaging.,True
+gpt4o__L3_network__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Nodes utilize IGMP for consistent messaging.,True
+gpt4o__L3_network__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Nodes utilize IPsec for consistent messaging.,True
+gpt4o__L3_network__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Devices communicate using IP for integration.,True
+gpt4o__L3_network__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Devices communicate using ICMP for integration.,True
+gpt4o__L3_network__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Devices communicate using IGMP for integration.,True
+gpt4o__L3_network__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Devices communicate using IPsec for integration.,True
+gpt4o__L3_network__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Networks depend on IP for message relaying.,True
+gpt4o__L3_network__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Networks depend on ICMP for message relaying.,True
+gpt4o__L3_network__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Networks depend on IGMP for message relaying.,True
+gpt4o__L3_network__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Networks depend on IPsec for message relaying.,True
+gpt4o__L3_network__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Systems use IP for quick connectivity.,True
+gpt4o__L3_network__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Systems use ICMP for quick connectivity.,True
+gpt4o__L3_network__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Systems use IGMP for quick connectivity.,True
+gpt4o__L3_network__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Systems use IPsec for quick connectivity.,True
+gpt4o__L3_network__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Hosts rely on IP to bridge connections.,True
+gpt4o__L3_network__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Hosts rely on ICMP to bridge connections.,True
+gpt4o__L3_network__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Hosts rely on IGMP to bridge connections.,True
+gpt4o__L3_network__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Hosts rely on IPsec to bridge connections.,True
+gpt4o__L3_network__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Nodes communicate efficiently using IP.,False
+gpt4o__L3_network__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Nodes communicate efficiently using ICMP.,False
+gpt4o__L3_network__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Nodes communicate efficiently using IGMP.,False
+gpt4o__L3_network__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Nodes communicate efficiently using IPsec.,False
+gpt4o__L3_network__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Devices use IP to exchange information.,True
+gpt4o__L3_network__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Devices use ICMP to exchange information.,True
+gpt4o__L3_network__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Devices use IGMP to exchange information.,True
+gpt4o__L3_network__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Devices use IPsec to exchange information.,True
+gpt4o__L3_network__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Networks utilize IP for structured communication.,True
+gpt4o__L3_network__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Networks utilize ICMP for structured communication.,True
+gpt4o__L3_network__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Networks utilize IGMP for structured communication.,True
+gpt4o__L3_network__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Networks utilize IPsec for structured communication.,True
+gpt4o__L3_network__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Systems use IP to handle network traffic.,True
+gpt4o__L3_network__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Systems use ICMP to handle network traffic.,True
+gpt4o__L3_network__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Systems use IGMP to handle network traffic.,True
+gpt4o__L3_network__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Systems use IPsec to handle network traffic.,True
+gpt4o__L3_network__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Hosts rely on IP for reliable interactions.,False
+gpt4o__L3_network__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Hosts rely on ICMP for reliable interactions.,False
+gpt4o__L3_network__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Hosts rely on IGMP for reliable interactions.,False
+gpt4o__L3_network__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Hosts rely on IPsec for reliable interactions.,False
+gpt4o__L3_network__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Nodes use IP to sustain communication.,True
+gpt4o__L3_network__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Nodes use ICMP to sustain communication.,True
+gpt4o__L3_network__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Nodes use IGMP to sustain communication.,True
+gpt4o__L3_network__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Nodes use IPsec to sustain communication.,True
+gpt4o__L3_network__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Devices rely on IP for connectivity.,True
+gpt4o__L3_network__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Devices rely on ICMP for connectivity.,True
+gpt4o__L3_network__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Devices rely on IGMP for connectivity.,True
+gpt4o__L3_network__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Devices rely on IPsec for connectivity.,True
+gpt4o__L3_network__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Networks use IP for transmission control.,True
+gpt4o__L3_network__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Networks use ICMP for transmission control.,True
+gpt4o__L3_network__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Networks use IGMP for transmission control.,True
+gpt4o__L3_network__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Networks use IPsec for transmission control.,True
+gpt4o__L3_network__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Systems depend on IP for efficient routing.,False
+gpt4o__L3_network__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Systems depend on ICMP for efficient routing.,False
+gpt4o__L3_network__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Systems depend on IGMP for efficient routing.,False
+gpt4o__L3_network__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Systems depend on IPsec for efficient routing.,False
+gpt4o__L3_network__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Hosts utilize IP to manage communication.,True
+gpt4o__L3_network__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Hosts utilize ICMP to manage communication.,True
+gpt4o__L3_network__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Hosts utilize IGMP to manage communication.,True
+gpt4o__L3_network__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Hosts utilize IPsec to manage communication.,True
+gpt4o__L3_network__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Nodes rely on IP for packet delivery.,True
+gpt4o__L3_network__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Nodes rely on ICMP for packet delivery.,True
+gpt4o__L3_network__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Nodes rely on IGMP for packet delivery.,True
+gpt4o__L3_network__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Nodes rely on IPsec for packet delivery.,True
+gpt4o__L3_network__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IP,Devices use IP for unified communication.,True
+gpt4o__L3_network__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,ICMP,Devices use ICMP for unified communication.,True
+gpt4o__L3_network__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IGMP,Devices use IGMP for unified communication.,True
+gpt4o__L3_network__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L3_network,IPsec,Devices use IPsec for unified communication.,True
+gpt4o__L4_transport__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The service communicates using TCP.,True
+gpt4o__L4_transport__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The service communicates using UDP.,True
+gpt4o__L4_transport__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The service communicates using SCTP.,True
+gpt4o__L4_transport__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The service communicates using QUIC.,True
+gpt4o__L4_transport__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Applications exchange data using TCP.,True
+gpt4o__L4_transport__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Applications exchange data using UDP.,True
+gpt4o__L4_transport__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Applications exchange data using SCTP.,True
+gpt4o__L4_transport__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Applications exchange data using QUIC.,True
+gpt4o__L4_transport__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Components use TCP for communication.,True
+gpt4o__L4_transport__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Components use UDP for communication.,True
+gpt4o__L4_transport__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Components use SCTP for communication.,True
+gpt4o__L4_transport__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Components use QUIC for communication.,True
+gpt4o__L4_transport__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The backend communicates using TCP.,True
+gpt4o__L4_transport__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The backend communicates using UDP.,True
+gpt4o__L4_transport__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The backend communicates using SCTP.,True
+gpt4o__L4_transport__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The backend communicates using QUIC.,True
+gpt4o__L4_transport__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Nodes exchange data using TCP.,True
+gpt4o__L4_transport__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Nodes exchange data using UDP.,True
+gpt4o__L4_transport__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Nodes exchange data using SCTP.,True
+gpt4o__L4_transport__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Nodes exchange data using QUIC.,True
+gpt4o__L4_transport__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Services use TCP for communication.,True
+gpt4o__L4_transport__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Services use UDP for communication.,True
+gpt4o__L4_transport__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Services use SCTP for communication.,True
+gpt4o__L4_transport__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Services use QUIC for communication.,True
+gpt4o__L4_transport__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The system communicates using TCP.,True
+gpt4o__L4_transport__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The system communicates using UDP.,True
+gpt4o__L4_transport__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The system communicates using SCTP.,True
+gpt4o__L4_transport__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The system communicates using QUIC.,True
+gpt4o__L4_transport__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Applications use TCP for data exchange.,True
+gpt4o__L4_transport__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Applications use UDP for data exchange.,True
+gpt4o__L4_transport__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Applications use SCTP for data exchange.,True
+gpt4o__L4_transport__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Applications use QUIC for data exchange.,True
+gpt4o__L4_transport__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Services communicate using TCP.,False
+gpt4o__L4_transport__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Services communicate using UDP.,False
+gpt4o__L4_transport__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Services communicate using SCTP.,False
+gpt4o__L4_transport__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Services communicate using QUIC.,False
+gpt4o__L4_transport__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Components exchange data using TCP.,True
+gpt4o__L4_transport__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Components exchange data using UDP.,True
+gpt4o__L4_transport__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Components exchange data using SCTP.,True
+gpt4o__L4_transport__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Components exchange data using QUIC.,True
+gpt4o__L4_transport__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The application uses TCP for data exchange.,True
+gpt4o__L4_transport__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The application uses UDP for data exchange.,True
+gpt4o__L4_transport__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The application uses SCTP for data exchange.,True
+gpt4o__L4_transport__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The application uses QUIC for data exchange.,True
+gpt4o__L4_transport__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Backend services communicate using TCP.,True
+gpt4o__L4_transport__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Backend services communicate using UDP.,True
+gpt4o__L4_transport__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Backend services communicate using SCTP.,True
+gpt4o__L4_transport__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Backend services communicate using QUIC.,True
+gpt4o__L4_transport__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Nodes use TCP for communication.,True
+gpt4o__L4_transport__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Nodes use UDP for communication.,True
+gpt4o__L4_transport__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Nodes use SCTP for communication.,True
+gpt4o__L4_transport__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Nodes use QUIC for communication.,True
+gpt4o__L4_transport__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The system uses TCP for data exchange.,True
+gpt4o__L4_transport__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The system uses UDP for data exchange.,True
+gpt4o__L4_transport__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The system uses SCTP for data exchange.,True
+gpt4o__L4_transport__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The system uses QUIC for data exchange.,True
+gpt4o__L4_transport__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Components communicate using TCP.,False
+gpt4o__L4_transport__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Components communicate using UDP.,False
+gpt4o__L4_transport__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Components communicate using SCTP.,False
+gpt4o__L4_transport__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Components communicate using QUIC.,False
+gpt4o__L4_transport__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The application exchanges data using TCP.,True
+gpt4o__L4_transport__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The application exchanges data using UDP.,True
+gpt4o__L4_transport__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The application exchanges data using SCTP.,True
+gpt4o__L4_transport__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The application exchanges data using QUIC.,True
+gpt4o__L4_transport__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Nodes communicate using TCP.,False
+gpt4o__L4_transport__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Nodes communicate using UDP.,False
+gpt4o__L4_transport__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Nodes communicate using SCTP.,False
+gpt4o__L4_transport__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Nodes communicate using QUIC.,False
+gpt4o__L4_transport__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Backend components use TCP for communication.,True
+gpt4o__L4_transport__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Backend components use UDP for communication.,True
+gpt4o__L4_transport__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Backend components use SCTP for communication.,True
+gpt4o__L4_transport__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Backend components use QUIC for communication.,True
+gpt4o__L4_transport__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Services exchange data using TCP.,True
+gpt4o__L4_transport__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Services exchange data using UDP.,True
+gpt4o__L4_transport__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Services exchange data using SCTP.,True
+gpt4o__L4_transport__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Services exchange data using QUIC.,True
+gpt4o__L4_transport__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The system exchanges data using TCP.,True
+gpt4o__L4_transport__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The system exchanges data using UDP.,True
+gpt4o__L4_transport__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The system exchanges data using SCTP.,True
+gpt4o__L4_transport__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The system exchanges data using QUIC.,True
+gpt4o__L4_transport__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Applications communicate using TCP.,False
+gpt4o__L4_transport__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Applications communicate using UDP.,False
+gpt4o__L4_transport__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Applications communicate using SCTP.,False
+gpt4o__L4_transport__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Applications communicate using QUIC.,False
+gpt4o__L4_transport__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Components use TCP to exchange data.,True
+gpt4o__L4_transport__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Components use UDP to exchange data.,True
+gpt4o__L4_transport__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Components use SCTP to exchange data.,True
+gpt4o__L4_transport__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Components use QUIC to exchange data.,True
+gpt4o__L4_transport__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,The backend uses TCP for communication.,True
+gpt4o__L4_transport__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,The backend uses UDP for communication.,True
+gpt4o__L4_transport__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,The backend uses SCTP for communication.,True
+gpt4o__L4_transport__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,The backend uses QUIC for communication.,True
+gpt4o__L4_transport__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Services use TCP to exchange data.,True
+gpt4o__L4_transport__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Services use UDP to exchange data.,True
+gpt4o__L4_transport__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Services use SCTP to exchange data.,True
+gpt4o__L4_transport__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Services use QUIC to exchange data.,True
+gpt4o__L4_transport__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,TCP,Nodes use TCP for data communication.,True
+gpt4o__L4_transport__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,UDP,Nodes use UDP for data communication.,True
+gpt4o__L4_transport__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,SCTP,Nodes use SCTP for data communication.,True
+gpt4o__L4_transport__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L4_transport,QUIC,Nodes use QUIC for data communication.,True
+gpt4o__L5_session__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The system relies on NFS for session management.,True
+gpt4o__L5_session__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The system relies on SMB for session management.,True
+gpt4o__L5_session__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The system relies on NetBios for session management.,True
+gpt4o__L5_session__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The system relies on RPC for session management.,True
+gpt4o__L5_session__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The application connects through NFS to manage sessions.,True
+gpt4o__L5_session__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The application connects through SMB to manage sessions.,True
+gpt4o__L5_session__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The application connects through NetBios to manage sessions.,True
+gpt4o__L5_session__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The application connects through RPC to manage sessions.,True
+gpt4o__L5_session__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The service uses NFS for remote session handling.,True
+gpt4o__L5_session__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The service uses SMB for remote session handling.,True
+gpt4o__L5_session__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The service uses NetBios for remote session handling.,True
+gpt4o__L5_session__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The service uses RPC for remote session handling.,True
+gpt4o__L5_session__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The components communicate using NFS for session control.,True
+gpt4o__L5_session__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The components communicate using SMB for session control.,True
+gpt4o__L5_session__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The components communicate using NetBios for session control.,True
+gpt4o__L5_session__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The components communicate using RPC for session control.,True
+gpt4o__L5_session__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Machines rely on NFS for effective session interaction.,True
+gpt4o__L5_session__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Machines rely on SMB for effective session interaction.,True
+gpt4o__L5_session__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Machines rely on NetBios for effective session interaction.,True
+gpt4o__L5_session__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Machines rely on RPC for effective session interaction.,True
+gpt4o__L5_session__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Services connect through NFS for seamless session processes.,True
+gpt4o__L5_session__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Services connect through SMB for seamless session processes.,True
+gpt4o__L5_session__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Services connect through NetBios for seamless session processes.,True
+gpt4o__L5_session__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Services connect through RPC for seamless session processes.,True
+gpt4o__L5_session__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The system uses NFS to facilitate session operations.,True
+gpt4o__L5_session__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The system uses SMB to facilitate session operations.,True
+gpt4o__L5_session__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The system uses NetBios to facilitate session operations.,True
+gpt4o__L5_session__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The system uses RPC to facilitate session operations.,True
+gpt4o__L5_session__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The application relies on NFS to handle remote sessions.,True
+gpt4o__L5_session__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The application relies on SMB to handle remote sessions.,True
+gpt4o__L5_session__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The application relies on NetBios to handle remote sessions.,True
+gpt4o__L5_session__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The application relies on RPC to handle remote sessions.,True
+gpt4o__L5_session__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The service connects through NFS for efficient session exchange.,False
+gpt4o__L5_session__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The service connects through SMB for efficient session exchange.,False
+gpt4o__L5_session__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The service connects through NetBios for efficient session exchange.,False
+gpt4o__L5_session__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The service connects through RPC for efficient session exchange.,False
+gpt4o__L5_session__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Components use NFS to ensure session continuity.,False
+gpt4o__L5_session__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Components use SMB to ensure session continuity.,False
+gpt4o__L5_session__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Components use NetBios to ensure session continuity.,False
+gpt4o__L5_session__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Components use RPC to ensure session continuity.,False
+gpt4o__L5_session__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Machines connect through NFS to engage in sessions.,True
+gpt4o__L5_session__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Machines connect through SMB to engage in sessions.,True
+gpt4o__L5_session__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Machines connect through NetBios to engage in sessions.,True
+gpt4o__L5_session__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Machines connect through RPC to engage in sessions.,True
+gpt4o__L5_session__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Services rely on NFS to oversee session connections.,True
+gpt4o__L5_session__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Services rely on SMB to oversee session connections.,True
+gpt4o__L5_session__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Services rely on NetBios to oversee session connections.,True
+gpt4o__L5_session__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Services rely on RPC to oversee session connections.,True
+gpt4o__L5_session__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The system connects through NFS for session interactions.,True
+gpt4o__L5_session__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The system connects through SMB for session interactions.,True
+gpt4o__L5_session__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The system connects through NetBios for session interactions.,True
+gpt4o__L5_session__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The system connects through RPC for session interactions.,True
+gpt4o__L5_session__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The application uses NFS for its session activities.,False
+gpt4o__L5_session__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The application uses SMB for its session activities.,False
+gpt4o__L5_session__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The application uses NetBios for its session activities.,False
+gpt4o__L5_session__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The application uses RPC for its session activities.,False
+gpt4o__L5_session__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The service relies on NFS for session coordination.,True
+gpt4o__L5_session__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The service relies on SMB for session coordination.,True
+gpt4o__L5_session__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The service relies on NetBios for session coordination.,True
+gpt4o__L5_session__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The service relies on RPC for session coordination.,True
+gpt4o__L5_session__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The components interact via NFS during sessions.,True
+gpt4o__L5_session__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The components interact via SMB during sessions.,True
+gpt4o__L5_session__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The components interact via NetBios during sessions.,True
+gpt4o__L5_session__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The components interact via RPC during sessions.,True
+gpt4o__L5_session__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Machines use NFS to maintain session communication.,True
+gpt4o__L5_session__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Machines use SMB to maintain session communication.,True
+gpt4o__L5_session__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Machines use NetBios to maintain session communication.,True
+gpt4o__L5_session__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Machines use RPC to maintain session communication.,True
+gpt4o__L5_session__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Services connect through NFS to manage session flow.,True
+gpt4o__L5_session__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Services connect through SMB to manage session flow.,True
+gpt4o__L5_session__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Services connect through NetBios to manage session flow.,True
+gpt4o__L5_session__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Services connect through RPC to manage session flow.,True
+gpt4o__L5_session__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The system relies on NFS for remote system interactions.,True
+gpt4o__L5_session__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The system relies on SMB for remote system interactions.,True
+gpt4o__L5_session__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The system relies on NetBios for remote system interactions.,True
+gpt4o__L5_session__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The system relies on RPC for remote system interactions.,True
+gpt4o__L5_session__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The application connects using NFS for session tasks.,True
+gpt4o__L5_session__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The application connects using SMB for session tasks.,True
+gpt4o__L5_session__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The application connects using NetBios for session tasks.,True
+gpt4o__L5_session__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The application connects using RPC for session tasks.,True
+gpt4o__L5_session__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The service uses NFS within remote session frameworks.,True
+gpt4o__L5_session__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The service uses SMB within remote session frameworks.,True
+gpt4o__L5_session__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The service uses NetBios within remote session frameworks.,True
+gpt4o__L5_session__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The service uses RPC within remote session frameworks.,True
+gpt4o__L5_session__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Components connect through NFS amid session processes.,True
+gpt4o__L5_session__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Components connect through SMB amid session processes.,True
+gpt4o__L5_session__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Components connect through NetBios amid session processes.,True
+gpt4o__L5_session__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Components connect through RPC amid session processes.,True
+gpt4o__L5_session__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Machines leverage NFS for extensive session handling.,True
+gpt4o__L5_session__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Machines leverage SMB for extensive session handling.,True
+gpt4o__L5_session__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Machines leverage NetBios for extensive session handling.,True
+gpt4o__L5_session__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Machines leverage RPC for extensive session handling.,True
+gpt4o__L5_session__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,Services integrate NFS for consistent session management.,True
+gpt4o__L5_session__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,Services integrate SMB for consistent session management.,True
+gpt4o__L5_session__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,Services integrate NetBios for consistent session management.,True
+gpt4o__L5_session__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,Services integrate RPC for consistent session management.,True
+gpt4o__L5_session__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NFS,The system uses NFS to achieve session functionality.,True
+gpt4o__L5_session__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,SMB,The system uses SMB to achieve session functionality.,True
+gpt4o__L5_session__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,NetBios,The system uses NetBios to achieve session functionality.,True
+gpt4o__L5_session__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L5_session,RPC,The system uses RPC to achieve session functionality.,True
+gpt4o__L6_presentation__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The application uses SSL/TLS for data representation.,True
+gpt4o__L6_presentation__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The application uses JPEG for data representation.,True
+gpt4o__L6_presentation__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The application uses MPEG for data representation.,True
+gpt4o__L6_presentation__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The application uses ASCII for data representation.,True
+gpt4o__L6_presentation__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Content is formatted through SSL/TLS for clarity.,True
+gpt4o__L6_presentation__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Content is formatted through JPEG for clarity.,True
+gpt4o__L6_presentation__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Content is formatted through MPEG for clarity.,True
+gpt4o__L6_presentation__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Content is formatted through ASCII for clarity.,True
+gpt4o__L6_presentation__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Data is presented using SSL/TLS techniques.,True
+gpt4o__L6_presentation__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Data is presented using JPEG techniques.,True
+gpt4o__L6_presentation__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Data is presented using MPEG techniques.,True
+gpt4o__L6_presentation__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Data is presented using ASCII techniques.,True
+gpt4o__L6_presentation__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The service encodes information with SSL/TLS.,True
+gpt4o__L6_presentation__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The service encodes information with JPEG.,True
+gpt4o__L6_presentation__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The service encodes information with MPEG.,True
+gpt4o__L6_presentation__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The service encodes information with ASCII.,True
+gpt4o__L6_presentation__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The system leverages SSL/TLS for consistent layout.,True
+gpt4o__L6_presentation__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The system leverages JPEG for consistent layout.,True
+gpt4o__L6_presentation__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The system leverages MPEG for consistent layout.,True
+gpt4o__L6_presentation__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The system leverages ASCII for consistent layout.,True
+gpt4o__L6_presentation__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Components handle data using SSL/TLS.,True
+gpt4o__L6_presentation__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Components handle data using JPEG.,True
+gpt4o__L6_presentation__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Components handle data using MPEG.,True
+gpt4o__L6_presentation__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Components handle data using ASCII.,True
+gpt4o__L6_presentation__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The application formats output through SSL/TLS.,True
+gpt4o__L6_presentation__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The application formats output through JPEG.,True
+gpt4o__L6_presentation__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The application formats output through MPEG.,True
+gpt4o__L6_presentation__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The application formats output through ASCII.,True
+gpt4o__L6_presentation__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Information is encoded using SSL/TLS efficiently.,False
+gpt4o__L6_presentation__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Information is encoded using JPEG efficiently.,False
+gpt4o__L6_presentation__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Information is encoded using MPEG efficiently.,False
+gpt4o__L6_presentation__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Information is encoded using ASCII efficiently.,False
+gpt4o__L6_presentation__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Data visualization relies on SSL/TLS.,True
+gpt4o__L6_presentation__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Data visualization relies on JPEG.,True
+gpt4o__L6_presentation__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Data visualization relies on MPEG.,True
+gpt4o__L6_presentation__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Data visualization relies on ASCII.,True
+gpt4o__L6_presentation__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Reports are generated using SSL/TLS.,True
+gpt4o__L6_presentation__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Reports are generated using JPEG.,True
+gpt4o__L6_presentation__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Reports are generated using MPEG.,True
+gpt4o__L6_presentation__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Reports are generated using ASCII.,True
+gpt4o__L6_presentation__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Details are structured with SSL/TLS in mind.,True
+gpt4o__L6_presentation__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Details are structured with JPEG in mind.,True
+gpt4o__L6_presentation__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Details are structured with MPEG in mind.,True
+gpt4o__L6_presentation__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Details are structured with ASCII in mind.,True
+gpt4o__L6_presentation__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The content uses SSL/TLS for structured display.,True
+gpt4o__L6_presentation__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The content uses JPEG for structured display.,True
+gpt4o__L6_presentation__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The content uses MPEG for structured display.,True
+gpt4o__L6_presentation__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The content uses ASCII for structured display.,True
+gpt4o__L6_presentation__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Data flow is managed through SSL/TLS.,True
+gpt4o__L6_presentation__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Data flow is managed through JPEG.,True
+gpt4o__L6_presentation__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Data flow is managed through MPEG.,True
+gpt4o__L6_presentation__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Data flow is managed through ASCII.,True
+gpt4o__L6_presentation__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Reports benefit from SSL/TLS usage.,True
+gpt4o__L6_presentation__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Reports benefit from JPEG usage.,True
+gpt4o__L6_presentation__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Reports benefit from MPEG usage.,True
+gpt4o__L6_presentation__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Reports benefit from ASCII usage.,True
+gpt4o__L6_presentation__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The application presents metrics with SSL/TLS.,True
+gpt4o__L6_presentation__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The application presents metrics with JPEG.,True
+gpt4o__L6_presentation__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The application presents metrics with MPEG.,True
+gpt4o__L6_presentation__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The application presents metrics with ASCII.,True
+gpt4o__L6_presentation__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Visualizations are created using SSL/TLS.,True
+gpt4o__L6_presentation__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Visualizations are created using JPEG.,True
+gpt4o__L6_presentation__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Visualizations are created using MPEG.,True
+gpt4o__L6_presentation__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Visualizations are created using ASCII.,True
+gpt4o__L6_presentation__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Encoding processes utilize SSL/TLS.,False
+gpt4o__L6_presentation__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Encoding processes utilize JPEG.,False
+gpt4o__L6_presentation__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Encoding processes utilize MPEG.,False
+gpt4o__L6_presentation__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Encoding processes utilize ASCII.,False
+gpt4o__L6_presentation__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The system organizes data via SSL/TLS.,True
+gpt4o__L6_presentation__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The system organizes data via JPEG.,True
+gpt4o__L6_presentation__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The system organizes data via MPEG.,True
+gpt4o__L6_presentation__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The system organizes data via ASCII.,True
+gpt4o__L6_presentation__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Content delivery uses SSL/TLS.,False
+gpt4o__L6_presentation__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Content delivery uses JPEG.,False
+gpt4o__L6_presentation__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Content delivery uses MPEG.,False
+gpt4o__L6_presentation__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Content delivery uses ASCII.,False
+gpt4o__L6_presentation__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Data objects are handled with SSL/TLS.,True
+gpt4o__L6_presentation__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Data objects are handled with JPEG.,True
+gpt4o__L6_presentation__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Data objects are handled with MPEG.,True
+gpt4o__L6_presentation__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Data objects are handled with ASCII.,True
+gpt4o__L6_presentation__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Information distribution employs SSL/TLS.,False
+gpt4o__L6_presentation__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Information distribution employs JPEG.,False
+gpt4o__L6_presentation__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Information distribution employs MPEG.,False
+gpt4o__L6_presentation__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Information distribution employs ASCII.,False
+gpt4o__L6_presentation__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Components display data using SSL/TLS.,True
+gpt4o__L6_presentation__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Components display data using JPEG.,True
+gpt4o__L6_presentation__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Components display data using MPEG.,True
+gpt4o__L6_presentation__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Components display data using ASCII.,True
+gpt4o__L6_presentation__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The format is achieved through SSL/TLS.,True
+gpt4o__L6_presentation__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The format is achieved through JPEG.,True
+gpt4o__L6_presentation__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The format is achieved through MPEG.,True
+gpt4o__L6_presentation__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The format is achieved through ASCII.,True
+gpt4o__L6_presentation__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,The system represents data via SSL/TLS.,True
+gpt4o__L6_presentation__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,The system represents data via JPEG.,True
+gpt4o__L6_presentation__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,The system represents data via MPEG.,True
+gpt4o__L6_presentation__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,The system represents data via ASCII.,True
+gpt4o__L6_presentation__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,SSL/TLS,Content presentation integrates SSL/TLS.,False
+gpt4o__L6_presentation__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,JPEG,Content presentation integrates JPEG.,False
+gpt4o__L6_presentation__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,MPEG,Content presentation integrates MPEG.,False
+gpt4o__L6_presentation__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L6_presentation,ASCII,Content presentation integrates ASCII.,False
+gpt4o__L7_application__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The application communicates using HTTP.,True
+gpt4o__L7_application__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The application communicates using FTP.,True
+gpt4o__L7_application__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The application communicates using DNS.,True
+gpt4o__L7_application__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The application communicates using SMTP.,True
+gpt4o__L7_application__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Our system uses HTTP for application communication.,True
+gpt4o__L7_application__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Our system uses FTP for application communication.,True
+gpt4o__L7_application__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Our system uses DNS for application communication.,True
+gpt4o__L7_application__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Our system uses SMTP for application communication.,True
+gpt4o__L7_application__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Each service communicates using HTTP.,True
+gpt4o__L7_application__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Each service communicates using FTP.,True
+gpt4o__L7_application__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Each service communicates using DNS.,True
+gpt4o__L7_application__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Each service communicates using SMTP.,True
+gpt4o__L7_application__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Client components use HTTP for network services.,True
+gpt4o__L7_application__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Client components use FTP for network services.,True
+gpt4o__L7_application__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Client components use DNS for network services.,True
+gpt4o__L7_application__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Client components use SMTP for network services.,True
+gpt4o__L7_application__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Backend systems communicate using HTTP.,True
+gpt4o__L7_application__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Backend systems communicate using FTP.,True
+gpt4o__L7_application__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Backend systems communicate using DNS.,True
+gpt4o__L7_application__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Backend systems communicate using SMTP.,True
+gpt4o__L7_application__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Multiple applications use HTTP for networking.,True
+gpt4o__L7_application__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Multiple applications use FTP for networking.,True
+gpt4o__L7_application__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Multiple applications use DNS for networking.,True
+gpt4o__L7_application__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Multiple applications use SMTP for networking.,True
+gpt4o__L7_application__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Services interact by using HTTP.,True
+gpt4o__L7_application__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Services interact by using FTP.,True
+gpt4o__L7_application__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Services interact by using DNS.,True
+gpt4o__L7_application__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Services interact by using SMTP.,True
+gpt4o__L7_application__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The client uses HTTP for communication.,True
+gpt4o__L7_application__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The client uses FTP for communication.,True
+gpt4o__L7_application__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The client uses DNS for communication.,True
+gpt4o__L7_application__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The client uses SMTP for communication.,True
+gpt4o__L7_application__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The service communicates using HTTP.,True
+gpt4o__L7_application__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The service communicates using FTP.,True
+gpt4o__L7_application__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The service communicates using DNS.,True
+gpt4o__L7_application__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The service communicates using SMTP.,True
+gpt4o__L7_application__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The system relies on HTTP for network services.,True
+gpt4o__L7_application__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The system relies on FTP for network services.,True
+gpt4o__L7_application__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The system relies on DNS for network services.,True
+gpt4o__L7_application__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The system relies on SMTP for network services.,True
+gpt4o__L7_application__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Components use HTTP for communication purposes.,True
+gpt4o__L7_application__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Components use FTP for communication purposes.,True
+gpt4o__L7_application__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Components use DNS for communication purposes.,True
+gpt4o__L7_application__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Components use SMTP for communication purposes.,True
+gpt4o__L7_application__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Our services communicate via HTTP.,True
+gpt4o__L7_application__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Our services communicate via FTP.,True
+gpt4o__L7_application__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Our services communicate via DNS.,True
+gpt4o__L7_application__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Our services communicate via SMTP.,True
+gpt4o__L7_application__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Systems communicate with each other using HTTP.,True
+gpt4o__L7_application__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Systems communicate with each other using FTP.,True
+gpt4o__L7_application__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Systems communicate with each other using DNS.,True
+gpt4o__L7_application__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Systems communicate with each other using SMTP.,True
+gpt4o__L7_application__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The backend service uses HTTP to communicate.,True
+gpt4o__L7_application__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The backend service uses FTP to communicate.,True
+gpt4o__L7_application__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The backend service uses DNS to communicate.,True
+gpt4o__L7_application__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The backend service uses SMTP to communicate.,True
+gpt4o__L7_application__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The client application uses HTTP for interaction.,True
+gpt4o__L7_application__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The client application uses FTP for interaction.,True
+gpt4o__L7_application__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The client application uses DNS for interaction.,True
+gpt4o__L7_application__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The client application uses SMTP for interaction.,True
+gpt4o__L7_application__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Application components communicate through HTTP.,True
+gpt4o__L7_application__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Application components communicate through FTP.,True
+gpt4o__L7_application__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Application components communicate through DNS.,True
+gpt4o__L7_application__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Application components communicate through SMTP.,True
+gpt4o__L7_application__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The existing system uses HTTP for its network activities.,False
+gpt4o__L7_application__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The existing system uses FTP for its network activities.,False
+gpt4o__L7_application__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The existing system uses DNS for its network activities.,False
+gpt4o__L7_application__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The existing system uses SMTP for its network activities.,False
+gpt4o__L7_application__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Services coordinate using HTTP for network communication.,True
+gpt4o__L7_application__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Services coordinate using FTP for network communication.,True
+gpt4o__L7_application__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Services coordinate using DNS for network communication.,True
+gpt4o__L7_application__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Services coordinate using SMTP for network communication.,True
+gpt4o__L7_application__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The software application communicates via HTTP.,True
+gpt4o__L7_application__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The software application communicates via FTP.,True
+gpt4o__L7_application__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The software application communicates via DNS.,True
+gpt4o__L7_application__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The software application communicates via SMTP.,True
+gpt4o__L7_application__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Our platform utilizes HTTP for communication.,True
+gpt4o__L7_application__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Our platform utilizes FTP for communication.,True
+gpt4o__L7_application__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Our platform utilizes DNS for communication.,True
+gpt4o__L7_application__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Our platform utilizes SMTP for communication.,True
+gpt4o__L7_application__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Interactive services use HTTP to stay connected.,True
+gpt4o__L7_application__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Interactive services use FTP to stay connected.,True
+gpt4o__L7_application__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Interactive services use DNS to stay connected.,True
+gpt4o__L7_application__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Interactive services use SMTP to stay connected.,True
+gpt4o__L7_application__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The application employs HTTP for its operations.,False
+gpt4o__L7_application__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The application employs FTP for its operations.,False
+gpt4o__L7_application__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The application employs DNS for its operations.,False
+gpt4o__L7_application__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The application employs SMTP for its operations.,False
+gpt4o__L7_application__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The service layer operates using HTTP.,True
+gpt4o__L7_application__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The service layer operates using FTP.,True
+gpt4o__L7_application__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The service layer operates using DNS.,True
+gpt4o__L7_application__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The service layer operates using SMTP.,True
+gpt4o__L7_application__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,Numerous applications depend on HTTP for network communication.,True
+gpt4o__L7_application__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,Numerous applications depend on FTP for network communication.,True
+gpt4o__L7_application__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,Numerous applications depend on DNS for network communication.,True
+gpt4o__L7_application__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,Numerous applications depend on SMTP for network communication.,True
+gpt4o__L7_application__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,HTTP,The backend system coordinates through HTTP.,True
+gpt4o__L7_application__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,FTP,The backend system coordinates through FTP.,True
+gpt4o__L7_application__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,DNS,The backend system coordinates through DNS.,True
+gpt4o__L7_application__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,L7_application,SMTP,The backend system coordinates through SMTP.,True
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Developers work with Javascript during implementation.,True
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Developers work with HTML/CSS during implementation.,True
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Developers work with SQL during implementation.,True
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Developers work with Python during implementation.,True
+gpt4o__X_language__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Developers work with Bash/Shell during implementation.,True
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The project uses Javascript for scripting tasks.,True
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The project uses HTML/CSS for scripting tasks.,True
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The project uses SQL for scripting tasks.,True
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The project uses Python for scripting tasks.,True
+gpt4o__X_language__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The project uses Bash/Shell for scripting tasks.,True
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Engineers define web content using Javascript.,True
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Engineers define web content using HTML/CSS.,True
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Engineers define web content using SQL.,True
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Engineers define web content using Python.,True
+gpt4o__X_language__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Engineers define web content using Bash/Shell.,True
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The software implements solutions via Javascript.,True
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The software implements solutions via HTML/CSS.,True
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The software implements solutions via SQL.,True
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The software implements solutions via Python.,True
+gpt4o__X_language__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The software implements solutions via Bash/Shell.,True
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Codebase incorporates functionality with Javascript.,True
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Codebase incorporates functionality with HTML/CSS.,True
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Codebase incorporates functionality with SQL.,True
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Codebase incorporates functionality with Python.,True
+gpt4o__X_language__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Codebase incorporates functionality with Bash/Shell.,True
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The team employs Javascript in development.,True
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The team employs HTML/CSS in development.,True
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The team employs SQL in development.,True
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The team employs Python in development.,True
+gpt4o__X_language__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The team employs Bash/Shell in development.,True
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Developers write modules using Javascript.,True
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Developers write modules using HTML/CSS.,True
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Developers write modules using SQL.,True
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Developers write modules using Python.,True
+gpt4o__X_language__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Developers write modules using Bash/Shell.,True
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The project integrates components via Javascript.,True
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The project integrates components via HTML/CSS.,True
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The project integrates components via SQL.,True
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The project integrates components via Python.,True
+gpt4o__X_language__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The project integrates components via Bash/Shell.,True
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Engineers utilize Javascript for software creation.,True
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Engineers utilize HTML/CSS for software creation.,True
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Engineers utilize SQL for software creation.,True
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Engineers utilize Python for software creation.,True
+gpt4o__X_language__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Engineers utilize Bash/Shell for software creation.,True
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The team crafts web features with Javascript.,True
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The team crafts web features with HTML/CSS.,True
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The team crafts web features with SQL.,True
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The team crafts web features with Python.,True
+gpt4o__X_language__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The team crafts web features with Bash/Shell.,True
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Codebase is developed using Javascript.,True
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Codebase is developed using HTML/CSS.,True
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Codebase is developed using SQL.,True
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Codebase is developed using Python.,True
+gpt4o__X_language__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Codebase is developed using Bash/Shell.,True
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The project leverages Javascript for structure.,True
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The project leverages HTML/CSS for structure.,True
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The project leverages SQL for structure.,True
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The project leverages Python for structure.,True
+gpt4o__X_language__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The project leverages Bash/Shell for structure.,True
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Developers implement changes with Javascript.,True
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Developers implement changes with HTML/CSS.,True
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Developers implement changes with SQL.,True
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Developers implement changes with Python.,True
+gpt4o__X_language__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Developers implement changes with Bash/Shell.,True
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Software integrates elements through Javascript.,True
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Software integrates elements through HTML/CSS.,True
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Software integrates elements through SQL.,True
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Software integrates elements through Python.,True
+gpt4o__X_language__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Software integrates elements through Bash/Shell.,True
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The team designs interfaces using Javascript.,True
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The team designs interfaces using HTML/CSS.,True
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The team designs interfaces using SQL.,True
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The team designs interfaces using Python.,True
+gpt4o__X_language__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The team designs interfaces using Bash/Shell.,True
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Engineers handle modifications with Javascript.,True
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Engineers handle modifications with HTML/CSS.,True
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Engineers handle modifications with SQL.,True
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Engineers handle modifications with Python.,True
+gpt4o__X_language__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Engineers handle modifications with Bash/Shell.,True
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The project employs Javascript during scripting.,True
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The project employs HTML/CSS during scripting.,True
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The project employs SQL during scripting.,True
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The project employs Python during scripting.,True
+gpt4o__X_language__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The project employs Bash/Shell during scripting.,True
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Developers create applications with Javascript.,True
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Developers create applications with HTML/CSS.,True
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Developers create applications with SQL.,True
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Developers create applications with Python.,True
+gpt4o__X_language__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Developers create applications with Bash/Shell.,True
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The team uses Javascript in their workflow.,True
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The team uses HTML/CSS in their workflow.,True
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The team uses SQL in their workflow.,True
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The team uses Python in their workflow.,True
+gpt4o__X_language__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The team uses Bash/Shell in their workflow.,True
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Software employs Javascript for backend logic.,True
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Software employs HTML/CSS for backend logic.,True
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Software employs SQL for backend logic.,True
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Software employs Python for backend logic.,True
+gpt4o__X_language__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Software employs Bash/Shell for backend logic.,True
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Engineers develop tools with Javascript.,True
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Engineers develop tools with HTML/CSS.,True
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Engineers develop tools with SQL.,True
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Engineers develop tools with Python.,True
+gpt4o__X_language__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Engineers develop tools with Bash/Shell.,True
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The codebase integrates Javascript seamlessly.,True
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The codebase integrates HTML/CSS seamlessly.,True
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The codebase integrates SQL seamlessly.,True
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The codebase integrates Python seamlessly.,True
+gpt4o__X_language__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The codebase integrates Bash/Shell seamlessly.,True
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The project builds frameworks using Javascript.,True
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The project builds frameworks using HTML/CSS.,True
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The project builds frameworks using SQL.,True
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The project builds frameworks using Python.,True
+gpt4o__X_language__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The project builds frameworks using Bash/Shell.,True
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,Developers maintain scripts with Javascript.,True
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,Developers maintain scripts with HTML/CSS.,True
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,Developers maintain scripts with SQL.,True
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,Developers maintain scripts with Python.,True
+gpt4o__X_language__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,Developers maintain scripts with Bash/Shell.,True
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Javascript,The team engages with Javascript routinely.,True
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,HTML/CSS,The team engages with HTML/CSS routinely.,True
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,SQL,The team engages with SQL routinely.,True
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Python,The team engages with Python routinely.,True
+gpt4o__X_language__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_language,Bash/Shell,The team engages with Bash/Shell routinely.,True
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The application relies on PostgresSQL for data storage.,True
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The application relies on MySQL for data storage.,True
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The application relies on SQLite for data storage.,True
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The application relies on Microsoft SQL Server for data storage.,True
+gpt4o__X_database__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The application relies on Redis for data storage.,True
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Developers use PostgresSQL for application data storage.,True
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Developers use MySQL for application data storage.,True
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Developers use SQLite for application data storage.,True
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Developers use Microsoft SQL Server for application data storage.,True
+gpt4o__X_database__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Developers use Redis for application data storage.,True
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our system stores application data using PostgresSQL.,True
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our system stores application data using MySQL.,True
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our system stores application data using SQLite.,True
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our system stores application data using Microsoft SQL Server.,True
+gpt4o__X_database__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our system stores application data using Redis.,True
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The project depends on PostgresSQL for data management.,True
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The project depends on MySQL for data management.,True
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The project depends on SQLite for data management.,True
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The project depends on Microsoft SQL Server for data management.,True
+gpt4o__X_database__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The project depends on Redis for data management.,True
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The service stores its data with PostgresSQL.,True
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The service stores its data with MySQL.,True
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The service stores its data with SQLite.,True
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The service stores its data with Microsoft SQL Server.,True
+gpt4o__X_database__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The service stores its data with Redis.,True
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our backend relies on PostgresSQL for data handling.,True
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our backend relies on MySQL for data handling.,True
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our backend relies on SQLite for data handling.,True
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our backend relies on Microsoft SQL Server for data handling.,True
+gpt4o__X_database__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our backend relies on Redis for data handling.,True
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The application uses PostgresSQL for managing its data.,True
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The application uses MySQL for managing its data.,True
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The application uses SQLite for managing its data.,True
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The application uses Microsoft SQL Server for managing its data.,True
+gpt4o__X_database__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The application uses Redis for managing its data.,True
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Engineers rely on PostgresSQL to store application data.,True
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Engineers rely on MySQL to store application data.,True
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Engineers rely on SQLite to store application data.,True
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Engineers rely on Microsoft SQL Server to store application data.,True
+gpt4o__X_database__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Engineers rely on Redis to store application data.,True
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The team manages data with PostgresSQL.,True
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The team manages data with MySQL.,True
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The team manages data with SQLite.,True
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The team manages data with Microsoft SQL Server.,True
+gpt4o__X_database__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The team manages data with Redis.,True
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The system uses PostgresSQL for database needs.,True
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The system uses MySQL for database needs.,True
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The system uses SQLite for database needs.,True
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The system uses Microsoft SQL Server for database needs.,True
+gpt4o__X_database__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The system uses Redis for database needs.,True
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our project stores essential data in PostgresSQL.,True
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our project stores essential data in MySQL.,True
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our project stores essential data in SQLite.,True
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our project stores essential data in Microsoft SQL Server.,True
+gpt4o__X_database__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our project stores essential data in Redis.,True
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The backend utilizes PostgresSQL for its data requirements.,False
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The backend utilizes MySQL for its data requirements.,False
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The backend utilizes SQLite for its data requirements.,False
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The backend utilizes Microsoft SQL Server for its data requirements.,False
+gpt4o__X_database__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The backend utilizes Redis for its data requirements.,False
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The service manages application data through PostgresSQL.,True
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The service manages application data through MySQL.,True
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The service manages application data through SQLite.,True
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The service manages application data through Microsoft SQL Server.,True
+gpt4o__X_database__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The service manages application data through Redis.,True
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Developers rely on PostgresSQL for data management.,True
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Developers rely on MySQL for data management.,True
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Developers rely on SQLite for data management.,True
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Developers rely on Microsoft SQL Server for data management.,True
+gpt4o__X_database__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Developers rely on Redis for data management.,True
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The team stores the application data using PostgresSQL.,True
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The team stores the application data using MySQL.,True
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The team stores the application data using SQLite.,True
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The team stores the application data using Microsoft SQL Server.,True
+gpt4o__X_database__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The team stores the application data using Redis.,True
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our application utilizes PostgresSQL for data purposes.,True
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our application utilizes MySQL for data purposes.,True
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our application utilizes SQLite for data purposes.,True
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our application utilizes Microsoft SQL Server for data purposes.,True
+gpt4o__X_database__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our application utilizes Redis for data purposes.,True
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The project team relies on PostgresSQL for storage.,True
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The project team relies on MySQL for storage.,True
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The project team relies on SQLite for storage.,True
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The project team relies on Microsoft SQL Server for storage.,True
+gpt4o__X_database__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The project team relies on Redis for storage.,True
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The system manages its data collection with PostgresSQL.,True
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The system manages its data collection with MySQL.,True
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The system manages its data collection with SQLite.,True
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The system manages its data collection with Microsoft SQL Server.,True
+gpt4o__X_database__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The system manages its data collection with Redis.,True
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The application uses PostgresSQL for its data strategy.,False
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The application uses MySQL for its data strategy.,False
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The application uses SQLite for its data strategy.,False
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The application uses Microsoft SQL Server for its data strategy.,False
+gpt4o__X_database__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The application uses Redis for its data strategy.,False
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The backend application data is managed with PostgresSQL.,True
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The backend application data is managed with MySQL.,True
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The backend application data is managed with SQLite.,True
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The backend application data is managed with Microsoft SQL Server.,True
+gpt4o__X_database__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The backend application data is managed with Redis.,True
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The project stores its data using PostgresSQL.,True
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The project stores its data using MySQL.,True
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The project stores its data using SQLite.,True
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The project stores its data using Microsoft SQL Server.,True
+gpt4o__X_database__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The project stores its data using Redis.,True
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our service relies on PostgresSQL for storing data.,True
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our service relies on MySQL for storing data.,True
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our service relies on SQLite for storing data.,True
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our service relies on Microsoft SQL Server for storing data.,True
+gpt4o__X_database__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our service relies on Redis for storing data.,True
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Engineers use PostgresSQL as the database for projects.,True
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Engineers use MySQL as the database for projects.,True
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Engineers use SQLite as the database for projects.,True
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Engineers use Microsoft SQL Server as the database for projects.,True
+gpt4o__X_database__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Engineers use Redis as the database for projects.,True
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,The team uses PostgresSQL for storing application data.,True
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,The team uses MySQL for storing application data.,True
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,The team uses SQLite for storing application data.,True
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,The team uses Microsoft SQL Server for storing application data.,True
+gpt4o__X_database__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,The team uses Redis for storing application data.,True
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,PostgresSQL,Our system relies on PostgresSQL for all data tasks.,True
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,MySQL,Our system relies on MySQL for all data tasks.,True
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,SQLite,Our system relies on SQLite for all data tasks.,True
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Microsoft SQL Server,Our system relies on Microsoft SQL Server for all data tasks.,True
+gpt4o__X_database__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_database,Redis,Our system relies on Redis for all data tasks.,True
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The project workflow incorporates Docker seamlessly.,True
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The project workflow incorporates npm seamlessly.,True
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The project workflow incorporates AWS seamlessly.,True
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The project workflow incorporates Pip seamlessly.,True
+gpt4o__X_cloud_development__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The project workflow incorporates Kubernetes seamlessly.,True
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Developers use Docker in their cloud deployments.,True
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Developers use npm in their cloud deployments.,True
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Developers use AWS in their cloud deployments.,True
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Developers use Pip in their cloud deployments.,True
+gpt4o__X_cloud_development__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Developers use Kubernetes in their cloud deployments.,True
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The team relies on Docker during application deployments.,True
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The team relies on npm during application deployments.,True
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The team relies on AWS during application deployments.,True
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The team relies on Pip during application deployments.,True
+gpt4o__X_cloud_development__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The team relies on Kubernetes during application deployments.,True
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Engineers integrate Docker into the development process.,True
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Engineers integrate npm into the development process.,True
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Engineers integrate AWS into the development process.,True
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Engineers integrate Pip into the development process.,True
+gpt4o__X_cloud_development__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Engineers integrate Kubernetes into the development process.,True
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The application workflow benefits from using Docker.,True
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The application workflow benefits from using npm.,True
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The application workflow benefits from using AWS.,True
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The application workflow benefits from using Pip.,True
+gpt4o__X_cloud_development__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The application workflow benefits from using Kubernetes.,True
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The project embraces Docker for efficient development.,False
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The project embraces npm for efficient development.,False
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The project embraces AWS for efficient development.,False
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The project embraces Pip for efficient development.,False
+gpt4o__X_cloud_development__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The project embraces Kubernetes for efficient development.,False
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Developers work with Docker in their cloud strategies.,True
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Developers work with npm in their cloud strategies.,True
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Developers work with AWS in their cloud strategies.,True
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Developers work with Pip in their cloud strategies.,True
+gpt4o__X_cloud_development__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Developers work with Kubernetes in their cloud strategies.,True
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The development workflow leverages Docker for synergy.,True
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The development workflow leverages npm for synergy.,True
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The development workflow leverages AWS for synergy.,True
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The development workflow leverages Pip for synergy.,True
+gpt4o__X_cloud_development__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The development workflow leverages Kubernetes for synergy.,True
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The team collaborates with Docker throughout the project.,True
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The team collaborates with npm throughout the project.,True
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The team collaborates with AWS throughout the project.,True
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The team collaborates with Pip throughout the project.,True
+gpt4o__X_cloud_development__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The team collaborates with Kubernetes throughout the project.,True
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Engineers include Docker in their deployment workflows.,True
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Engineers include npm in their deployment workflows.,True
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Engineers include AWS in their deployment workflows.,True
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Engineers include Pip in their deployment workflows.,True
+gpt4o__X_cloud_development__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Engineers include Kubernetes in their deployment workflows.,True
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The project engages Docker effectively in its process.,True
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The project engages npm effectively in its process.,True
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The project engages AWS effectively in its process.,True
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The project engages Pip effectively in its process.,True
+gpt4o__X_cloud_development__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The project engages Kubernetes effectively in its process.,True
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Developers implement Docker into their cloud frameworks.,True
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Developers implement npm into their cloud frameworks.,True
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Developers implement AWS into their cloud frameworks.,True
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Developers implement Pip into their cloud frameworks.,True
+gpt4o__X_cloud_development__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Developers implement Kubernetes into their cloud frameworks.,True
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The team employs Docker to streamline their efforts.,True
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The team employs npm to streamline their efforts.,True
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The team employs AWS to streamline their efforts.,True
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The team employs Pip to streamline their efforts.,True
+gpt4o__X_cloud_development__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The team employs Kubernetes to streamline their efforts.,True
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Engineers incorporate Docker into their toolset.,True
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Engineers incorporate npm into their toolset.,True
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Engineers incorporate AWS into their toolset.,True
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Engineers incorporate Pip into their toolset.,True
+gpt4o__X_cloud_development__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Engineers incorporate Kubernetes into their toolset.,True
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Application workflow actively utilizes Docker for tasks.,True
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Application workflow actively utilizes npm for tasks.,True
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Application workflow actively utilizes AWS for tasks.,True
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Application workflow actively utilizes Pip for tasks.,True
+gpt4o__X_cloud_development__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Application workflow actively utilizes Kubernetes for tasks.,True
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The project's success involves using Docker.,True
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The project's success involves using npm.,True
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The project's success involves using AWS.,True
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The project's success involves using Pip.,True
+gpt4o__X_cloud_development__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The project's success involves using Kubernetes.,True
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Developers find value in Docker during deployment.,True
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Developers find value in npm during deployment.,True
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Developers find value in AWS during deployment.,True
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Developers find value in Pip during deployment.,True
+gpt4o__X_cloud_development__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Developers find value in Kubernetes during deployment.,True
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The workflow depends on Docker for cloud integration.,True
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The workflow depends on npm for cloud integration.,True
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The workflow depends on AWS for cloud integration.,True
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The workflow depends on Pip for cloud integration.,True
+gpt4o__X_cloud_development__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The workflow depends on Kubernetes for cloud integration.,True
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The team enhances processes using Docker.,True
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The team enhances processes using npm.,True
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The team enhances processes using AWS.,True
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The team enhances processes using Pip.,True
+gpt4o__X_cloud_development__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The team enhances processes using Kubernetes.,True
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Engineers engage Docker for cloud-based solutions.,True
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Engineers engage npm for cloud-based solutions.,True
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Engineers engage AWS for cloud-based solutions.,True
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Engineers engage Pip for cloud-based solutions.,True
+gpt4o__X_cloud_development__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Engineers engage Kubernetes for cloud-based solutions.,True
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The application workflow uses Docker for cloud tasks.,True
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The application workflow uses npm for cloud tasks.,True
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The application workflow uses AWS for cloud tasks.,True
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The application workflow uses Pip for cloud tasks.,True
+gpt4o__X_cloud_development__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The application workflow uses Kubernetes for cloud tasks.,True
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Developers align their workflow with Docker.,True
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Developers align their workflow with npm.,True
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Developers align their workflow with AWS.,True
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Developers align their workflow with Pip.,True
+gpt4o__X_cloud_development__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Developers align their workflow with Kubernetes.,True
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The team efficiently utilizes Docker in their projects.,False
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The team efficiently utilizes npm in their projects.,False
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The team efficiently utilizes AWS in their projects.,False
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The team efficiently utilizes Pip in their projects.,False
+gpt4o__X_cloud_development__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The team efficiently utilizes Kubernetes in their projects.,False
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,Engineers integrate Docker smoothly into activities.,True
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,Engineers integrate npm smoothly into activities.,True
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,Engineers integrate AWS smoothly into activities.,True
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,Engineers integrate Pip smoothly into activities.,True
+gpt4o__X_cloud_development__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,Engineers integrate Kubernetes smoothly into activities.,True
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Docker,The project flow revolves around using Docker.,True
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,npm,The project flow revolves around using npm.,True
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,AWS,The project flow revolves around using AWS.,True
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Pip,The project flow revolves around using Pip.,True
+gpt4o__X_cloud_development__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_cloud_development,Kubernetes,The project flow revolves around using Kubernetes.,True
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The team uses Node.js for the project.,True
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The team uses React for the project.,True
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The team uses jQuery for the project.,True
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The team uses Next.js for the project.,True
+gpt4o__X_web_technology__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The team uses Express for the project.,True
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Developers choose Node.js for building our site.,True
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Developers choose React for building our site.,True
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Developers choose jQuery for building our site.,True
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Developers choose Next.js for building our site.,True
+gpt4o__X_web_technology__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Developers choose Express for building our site.,True
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The development team integrates Node.js in the project.,True
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The development team integrates React in the project.,True
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The development team integrates jQuery in the project.,True
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The development team integrates Next.js in the project.,True
+gpt4o__X_web_technology__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The development team integrates Express in the project.,True
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The web application runs on Node.js.,True
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The web application runs on React.,True
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The web application runs on jQuery.,True
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The web application runs on Next.js.,True
+gpt4o__X_web_technology__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The web application runs on Express.,True
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Our application employs Node.js effectively.,True
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Our application employs React effectively.,True
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Our application employs jQuery effectively.,True
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Our application employs Next.js effectively.,True
+gpt4o__X_web_technology__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Our application employs Express effectively.,True
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Developers rely on Node.js for fast deployment.,True
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Developers rely on React for fast deployment.,True
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Developers rely on jQuery for fast deployment.,True
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Developers rely on Next.js for fast deployment.,True
+gpt4o__X_web_technology__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Developers rely on Express for fast deployment.,True
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The engineers implement features using Node.js.,True
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The engineers implement features using React.,True
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The engineers implement features using jQuery.,True
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The engineers implement features using Next.js.,True
+gpt4o__X_web_technology__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The engineers implement features using Express.,True
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The web project incorporates Node.js successfully.,True
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The web project incorporates React successfully.,True
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The web project incorporates jQuery successfully.,True
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The web project incorporates Next.js successfully.,True
+gpt4o__X_web_technology__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The web project incorporates Express successfully.,True
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The team adopts Node.js in web development.,True
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The team adopts React in web development.,True
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The team adopts jQuery in web development.,True
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The team adopts Next.js in web development.,True
+gpt4o__X_web_technology__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The team adopts Express in web development.,True
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The application is crafted with Node.js.,True
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The application is crafted with React.,True
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The application is crafted with jQuery.,True
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The application is crafted with Next.js.,True
+gpt4o__X_web_technology__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The application is crafted with Express.,True
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Developers work on the site using Node.js.,True
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Developers work on the site using React.,True
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Developers work on the site using jQuery.,True
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Developers work on the site using Next.js.,True
+gpt4o__X_web_technology__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Developers work on the site using Express.,True
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Our engineers utilize Node.js constantly.,True
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Our engineers utilize React constantly.,True
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Our engineers utilize jQuery constantly.,True
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Our engineers utilize Next.js constantly.,True
+gpt4o__X_web_technology__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Our engineers utilize Express constantly.,True
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The project benefits from Node.js integration.,True
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The project benefits from React integration.,True
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The project benefits from jQuery integration.,True
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The project benefits from Next.js integration.,True
+gpt4o__X_web_technology__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The project benefits from Express integration.,True
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The application evolves with Node.js adoption.,True
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The application evolves with React adoption.,True
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The application evolves with jQuery adoption.,True
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The application evolves with Next.js adoption.,True
+gpt4o__X_web_technology__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The application evolves with Express adoption.,True
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The development team builds with Node.js expertise.,True
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The development team builds with React expertise.,True
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The development team builds with jQuery expertise.,True
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The development team builds with Next.js expertise.,True
+gpt4o__X_web_technology__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The development team builds with Express expertise.,True
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The web application depends on Node.js.,True
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The web application depends on React.,True
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The web application depends on jQuery.,True
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The web application depends on Next.js.,True
+gpt4o__X_web_technology__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The web application depends on Express.,True
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Our project leverages Node.js for design.,True
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Our project leverages React for design.,True
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Our project leverages jQuery for design.,True
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Our project leverages Next.js for design.,True
+gpt4o__X_web_technology__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Our project leverages Express for design.,True
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Developers integrate Node.js into the site.,True
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Developers integrate React into the site.,True
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Developers integrate jQuery into the site.,True
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Developers integrate Next.js into the site.,True
+gpt4o__X_web_technology__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Developers integrate Express into the site.,True
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The engineers enhance the site using Node.js.,True
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The engineers enhance the site using React.,True
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The engineers enhance the site using jQuery.,True
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The engineers enhance the site using Next.js.,True
+gpt4o__X_web_technology__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The engineers enhance the site using Express.,True
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The team collaborates with Node.js flexibility.,True
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The team collaborates with React flexibility.,True
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The team collaborates with jQuery flexibility.,True
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The team collaborates with Next.js flexibility.,True
+gpt4o__X_web_technology__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The team collaborates with Express flexibility.,True
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The application scales with Node.js.,True
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The application scales with React.,True
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The application scales with jQuery.,True
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The application scales with Next.js.,True
+gpt4o__X_web_technology__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The application scales with Express.,True
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Developers implement solutions using Node.js.,True
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Developers implement solutions using React.,True
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Developers implement solutions using jQuery.,True
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Developers implement solutions using Next.js.,True
+gpt4o__X_web_technology__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Developers implement solutions using Express.,True
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The project thrives with Node.js support.,True
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The project thrives with React support.,True
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The project thrives with jQuery support.,True
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The project thrives with Next.js support.,True
+gpt4o__X_web_technology__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The project thrives with Express support.,True
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,Our engineers develop the site with Node.js.,True
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,Our engineers develop the site with React.,True
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,Our engineers develop the site with jQuery.,True
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,Our engineers develop the site with Next.js.,True
+gpt4o__X_web_technology__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,Our engineers develop the site with Express.,True
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Node.js,The development process includes Node.js involvement.,True
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,React,The development process includes React involvement.,True
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,jQuery,The development process includes jQuery involvement.,True
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Next.js,The development process includes Next.js involvement.,True
+gpt4o__X_web_technology__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_web_technology,Express,The development process includes Express involvement.,True
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers prefer editing code in Visual Studio Code.,True
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers prefer editing code in Visual Studio.,True
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers prefer editing code in Notepad++.,True
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers prefer editing code in IntelliJ IDEA.,True
+gpt4o__X_ide__1,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers prefer editing code in Vim.,True
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Engineers use Visual Studio Code to refine their code.,True
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Engineers use Visual Studio to refine their code.,True
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Engineers use Notepad++ to refine their code.,True
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Engineers use IntelliJ IDEA to refine their code.,True
+gpt4o__X_ide__2,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Engineers use Vim to refine their code.,True
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,A developer often relies on Visual Studio Code for coding tasks.,True
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,A developer often relies on Visual Studio for coding tasks.,True
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,A developer often relies on Notepad++ for coding tasks.,True
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,A developer often relies on IntelliJ IDEA for coding tasks.,True
+gpt4o__X_ide__3,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,A developer often relies on Vim for coding tasks.,True
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Teams frequently use Visual Studio Code for software editing.,True
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Teams frequently use Visual Studio for software editing.,True
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Teams frequently use Notepad++ for software editing.,True
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Teams frequently use IntelliJ IDEA for software editing.,True
+gpt4o__X_ide__4,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Teams frequently use Vim for software editing.,True
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Many developers work in Visual Studio Code during development.,True
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Many developers work in Visual Studio during development.,True
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Many developers work in Notepad++ during development.,True
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Many developers work in IntelliJ IDEA during development.,True
+gpt4o__X_ide__5,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Many developers work in Vim during development.,True
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The engineer enjoys coding with Visual Studio Code.,True
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The engineer enjoys coding with Visual Studio.,True
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The engineer enjoys coding with Notepad++.,True
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The engineer enjoys coding with IntelliJ IDEA.,True
+gpt4o__X_ide__6,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The engineer enjoys coding with Vim.,True
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers switch to Visual Studio Code for source code editing.,True
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers switch to Visual Studio for source code editing.,True
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers switch to Notepad++ for source code editing.,True
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers switch to IntelliJ IDEA for source code editing.,True
+gpt4o__X_ide__7,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers switch to Vim for source code editing.,True
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Engineers choose Visual Studio Code for efficient coding.,False
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Engineers choose Visual Studio for efficient coding.,False
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Engineers choose Notepad++ for efficient coding.,False
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Engineers choose IntelliJ IDEA for efficient coding.,False
+gpt4o__X_ide__8,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Engineers choose Vim for efficient coding.,False
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The team collaborates in Visual Studio Code throughout the project.,True
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The team collaborates in Visual Studio throughout the project.,True
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The team collaborates in Notepad++ throughout the project.,True
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The team collaborates in IntelliJ IDEA throughout the project.,True
+gpt4o__X_ide__9,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The team collaborates in Vim throughout the project.,True
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers often begin coding with Visual Studio Code.,True
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers often begin coding with Visual Studio.,True
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers often begin coding with Notepad++.,True
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers often begin coding with IntelliJ IDEA.,True
+gpt4o__X_ide__10,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers often begin coding with Vim.,True
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,An engineer edits scripts using Visual Studio Code.,True
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,An engineer edits scripts using Visual Studio.,True
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,An engineer edits scripts using Notepad++.,True
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,An engineer edits scripts using IntelliJ IDEA.,True
+gpt4o__X_ide__11,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,An engineer edits scripts using Vim.,True
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The software team uses Visual Studio Code for daily tasks.,True
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The software team uses Visual Studio for daily tasks.,True
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The software team uses Notepad++ for daily tasks.,True
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The software team uses IntelliJ IDEA for daily tasks.,True
+gpt4o__X_ide__12,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The software team uses Vim for daily tasks.,True
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Coding happens smoothly for developers in Visual Studio Code.,True
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Coding happens smoothly for developers in Visual Studio.,True
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Coding happens smoothly for developers in Notepad++.,True
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Coding happens smoothly for developers in IntelliJ IDEA.,True
+gpt4o__X_ide__13,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Coding happens smoothly for developers in Vim.,True
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Engineers refine their projects in Visual Studio Code daily.,True
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Engineers refine their projects in Visual Studio daily.,True
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Engineers refine their projects in Notepad++ daily.,True
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Engineers refine their projects in IntelliJ IDEA daily.,True
+gpt4o__X_ide__14,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Engineers refine their projects in Vim daily.,True
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The team updates code regularly in Visual Studio Code.,True
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The team updates code regularly in Visual Studio.,True
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The team updates code regularly in Notepad++.,True
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The team updates code regularly in IntelliJ IDEA.,True
+gpt4o__X_ide__15,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The team updates code regularly in Vim.,True
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,A software engineer develops projects using Visual Studio Code.,True
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,A software engineer develops projects using Visual Studio.,True
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,A software engineer develops projects using Notepad++.,True
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,A software engineer develops projects using IntelliJ IDEA.,True
+gpt4o__X_ide__16,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,A software engineer develops projects using Vim.,True
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers start new projects in Visual Studio Code.,True
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers start new projects in Visual Studio.,True
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers start new projects in Notepad++.,True
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers start new projects in IntelliJ IDEA.,True
+gpt4o__X_ide__17,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers start new projects in Vim.,True
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,An engineer prefers Visual Studio Code for its interface.,False
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,An engineer prefers Visual Studio for its interface.,False
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,An engineer prefers Notepad++ for its interface.,False
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,An engineer prefers IntelliJ IDEA for its interface.,False
+gpt4o__X_ide__18,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,An engineer prefers Vim for its interface.,False
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The team often discusses work done in Visual Studio Code.,True
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The team often discusses work done in Visual Studio.,True
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The team often discusses work done in Notepad++.,True
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The team often discusses work done in IntelliJ IDEA.,True
+gpt4o__X_ide__19,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The team often discusses work done in Vim.,True
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers write new features in Visual Studio Code.,True
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers write new features in Visual Studio.,True
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers write new features in Notepad++.,True
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers write new features in IntelliJ IDEA.,True
+gpt4o__X_ide__20,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers write new features in Vim.,True
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The engineer spends time coding in Visual Studio Code.,True
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The engineer spends time coding in Visual Studio.,True
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The engineer spends time coding in Notepad++.,True
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The engineer spends time coding in IntelliJ IDEA.,True
+gpt4o__X_ide__21,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The engineer spends time coding in Vim.,True
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Developers rely on Visual Studio Code for editing efficiency.,False
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Developers rely on Visual Studio for editing efficiency.,False
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Developers rely on Notepad++ for editing efficiency.,False
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Developers rely on IntelliJ IDEA for editing efficiency.,False
+gpt4o__X_ide__22,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Developers rely on Vim for editing efficiency.,False
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,The team finalizes changes in Visual Studio Code.,True
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,The team finalizes changes in Visual Studio.,True
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,The team finalizes changes in Notepad++.,True
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,The team finalizes changes in IntelliJ IDEA.,True
+gpt4o__X_ide__23,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,The team finalizes changes in Vim.,True
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,Many engineers compile code using Visual Studio Code.,True
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,Many engineers compile code using Visual Studio.,True
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,Many engineers compile code using Notepad++.,True
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,Many engineers compile code using IntelliJ IDEA.,True
+gpt4o__X_ide__24,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,Many engineers compile code using Vim.,True
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio Code,A developer revises code within Visual Studio Code.,True
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Visual Studio,A developer revises code within Visual Studio.,True
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Notepad++,A developer revises code within Notepad++.,True
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,IntelliJ IDEA,A developer revises code within IntelliJ IDEA.,True
+gpt4o__X_ide__25,gpt4o,openai,gpt-4o,P3_strict_interchangeability,X_ide,Vim,A developer revises code within Vim.,True
