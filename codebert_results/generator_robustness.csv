@@ -1,0 +1,266 @@
+category,axis_label,source_generator,candidate,n_frames,mean_probability,top_choice_rate,mean_rank
+L1_physical,Physical (L1),gpt4o,USB,5,0.6784212312187655,0.8,1.2
+L1_physical,Physical (L1),gpt4o,Ethernet,5,0.23720414772486662,0.2,2.2
+L1_physical,Physical (L1),gpt4o,Bluetooth,5,0.06527544642103145,0.0,2.8
+L1_physical,Physical (L1),gpt4o,NFC,5,0.019099174635336235,0.0,3.8
+L1_physical,Physical (L1),gpt5.6,Ethernet,5,0.5434431710839838,0.6,1.6
+L1_physical,Physical (L1),gpt5.6,USB,5,0.3847869333220354,0.4,1.6
+L1_physical,Physical (L1),gpt5.6,Bluetooth,5,0.06295139084133941,0.0,2.8
+L1_physical,Physical (L1),gpt5.6,NFC,5,0.0088185047526414,0.0,4.0
+L1_physical,Physical (L1),llama70B,USB,5,0.43065862316302705,0.6,1.6
+L1_physical,Physical (L1),llama70B,Ethernet,5,0.427042099302178,0.4,2.2
+L1_physical,Physical (L1),llama70B,Bluetooth,5,0.09876756529877481,0.0,3.0
+L1_physical,Physical (L1),llama70B,NFC,5,0.04353171223602004,0.0,3.2
+L1_physical,Physical (L1),llama8B,USB,5,0.5138963936651707,0.6,1.4
+L1_physical,Physical (L1),llama8B,Ethernet,5,0.41515464502595956,0.4,1.6
+L1_physical,Physical (L1),llama8B,Bluetooth,5,0.04134931439654172,0.0,3.2
+L1_physical,Physical (L1),llama8B,NFC,5,0.029599646912328033,0.0,3.8
+L1_physical,Physical (L1),mistral-large-3,USB,5,0.4686068992020543,0.8,1.6
+L1_physical,Physical (L1),mistral-large-3,Ethernet,5,0.3316872694065743,0.2,2.2
+L1_physical,Physical (L1),mistral-large-3,Bluetooth,5,0.09865052696851984,0.0,3.0
+L1_physical,Physical (L1),mistral-large-3,NFC,5,0.10105530442285163,0.0,3.2
+L2_data_link,Data Link (L2),gpt4o,Wi-Fi,5,0.9789080071358054,1.0,1.0
+L2_data_link,Data Link (L2),gpt4o,PPP,5,0.016396121782690464,0.0,2.0
+L2_data_link,Data Link (L2),gpt4o,Ethernet,5,0.004432847913919508,0.0,3.2
+L2_data_link,Data Link (L2),gpt4o,HDLC,5,0.0002630231675847006,0.0,3.8
+L2_data_link,Data Link (L2),gpt5.6,Wi-Fi,5,0.9519151610071743,1.0,1.0
+L2_data_link,Data Link (L2),gpt5.6,PPP,5,0.019822059620132,0.0,2.4
+L2_data_link,Data Link (L2),gpt5.6,Ethernet,5,0.027857995043385618,0.0,2.6
+L2_data_link,Data Link (L2),gpt5.6,HDLC,5,0.00040478432930812064,0.0,4.0
+L2_data_link,Data Link (L2),llama70B,Wi-Fi,5,0.9747591521501425,1.0,1.0
+L2_data_link,Data Link (L2),llama70B,PPP,5,0.020910121055277876,0.0,2.0
+L2_data_link,Data Link (L2),llama70B,Ethernet,5,0.003858290220103097,0.0,3.0
+L2_data_link,Data Link (L2),llama70B,HDLC,5,0.00047243657447654865,0.0,4.0
+L2_data_link,Data Link (L2),llama8B,Wi-Fi,5,0.9725211331061777,1.0,1.0
+L2_data_link,Data Link (L2),llama8B,PPP,5,0.020025590833295342,0.0,2.2
+L2_data_link,Data Link (L2),llama8B,Ethernet,5,0.006899635251292127,0.0,2.8
+L2_data_link,Data Link (L2),llama8B,HDLC,5,0.0005536408092349172,0.0,4.0
+L2_data_link,Data Link (L2),mistral-large-3,Wi-Fi,5,0.9638893292015581,1.0,1.0
+L2_data_link,Data Link (L2),mistral-large-3,PPP,5,0.02696000410425096,0.0,2.2
+L2_data_link,Data Link (L2),mistral-large-3,Ethernet,5,0.00857312771283085,0.0,3.0
+L2_data_link,Data Link (L2),mistral-large-3,HDLC,5,0.00057753898136012,0.0,3.8
+L3_network,Network (L3),gpt4o,ICMP,5,0.9928399158987359,1.0,1.0
+L3_network,Network (L3),gpt4o,IGMP,5,0.0021508710314211196,0.0,2.4
+L3_network,Network (L3),gpt4o,IP,5,0.004109274914356575,0.0,2.8
+L3_network,Network (L3),gpt4o,IPsec,5,0.0008999381554863946,0.0,3.8
+L3_network,Network (L3),gpt5.6,ICMP,5,0.993498598752667,1.0,1.0
+L3_network,Network (L3),gpt5.6,IP,5,0.004243345776488804,0.0,2.2
+L3_network,Network (L3),gpt5.6,IGMP,5,0.0017067852878993321,0.0,2.8
+L3_network,Network (L3),gpt5.6,IPsec,5,0.0005512701829449727,0.0,4.0
+L3_network,Network (L3),llama70B,ICMP,5,0.9913459750528814,1.0,1.0
+L3_network,Network (L3),llama70B,IGMP,5,0.0030626583905066633,0.0,2.4
+L3_network,Network (L3),llama70B,IP,5,0.004751732585768583,0.0,2.6
+L3_network,Network (L3),llama70B,IPsec,5,0.0008396339708433516,0.0,4.0
+L3_network,Network (L3),llama8B,ICMP,5,0.9916345229975457,1.0,1.0
+L3_network,Network (L3),llama8B,IGMP,5,0.003195517575445894,0.0,2.4
+L3_network,Network (L3),llama8B,IP,5,0.0041217125187239315,0.0,2.6
+L3_network,Network (L3),llama8B,IPsec,5,0.0010482469082844419,0.0,4.0
+L3_network,Network (L3),mistral-large-3,ICMP,5,0.9930325546388137,1.0,1.0
+L3_network,Network (L3),mistral-large-3,IP,5,0.002284844663466757,0.0,2.8
+L3_network,Network (L3),mistral-large-3,IGMP,5,0.0025260398893977307,0.0,3.0
+L3_network,Network (L3),mistral-large-3,IPsec,5,0.0021565608083220014,0.0,3.2
+L4_transport,Transport (L4),gpt4o,SCTP,5,0.955563494434565,1.0,1.0
+L4_transport,Transport (L4),gpt4o,UDP,5,0.01664296840353887,0.0,2.6
+L4_transport,Transport (L4),gpt4o,QUIC,5,0.01099662509040433,0.0,2.8
+L4_transport,Transport (L4),gpt4o,TCP,5,0.01679691207149169,0.0,3.6
+L4_transport,Transport (L4),gpt5.6,SCTP,5,0.9197765343376496,1.0,1.0
+L4_transport,Transport (L4),gpt5.6,UDP,5,0.042828804407181675,0.0,2.4
+L4_transport,Transport (L4),gpt5.6,QUIC,5,0.01818226974687738,0.0,3.0
+L4_transport,Transport (L4),gpt5.6,TCP,5,0.019212391508291293,0.0,3.6
+L4_transport,Transport (L4),llama70B,SCTP,5,0.9586372255889319,1.0,1.0
+L4_transport,Transport (L4),llama70B,QUIC,5,0.018147246504276397,0.0,2.4
+L4_transport,Transport (L4),llama70B,UDP,5,0.01385333228456515,0.0,2.8
+L4_transport,Transport (L4),llama70B,TCP,5,0.009362195622226576,0.0,3.8
+L4_transport,Transport (L4),llama8B,SCTP,5,0.9025614442947063,1.0,1.0
+L4_transport,Transport (L4),llama8B,UDP,5,0.031170332741782568,0.0,2.8
+L4_transport,Transport (L4),llama8B,TCP,5,0.03091589404434748,0.0,3.0
+L4_transport,Transport (L4),llama8B,QUIC,5,0.03535232891916359,0.0,3.2
+L4_transport,Transport (L4),mistral-large-3,SCTP,5,0.9530197176174019,1.0,1.0
+L4_transport,Transport (L4),mistral-large-3,UDP,5,0.015145299029417839,0.0,2.6
+L4_transport,Transport (L4),mistral-large-3,QUIC,5,0.012850580419255974,0.0,3.0
+L4_transport,Transport (L4),mistral-large-3,TCP,5,0.01898440293392418,0.0,3.4
+L5_session,Session (L5),gpt4o,NFS,5,0.6676436951433506,0.8,1.2
+L5_session,Session (L5),gpt4o,SMB,5,0.2631498086959708,0.2,1.8
+L5_session,Session (L5),gpt4o,NetBIOS,5,0.05139044272610647,0.0,3.0
+L5_session,Session (L5),gpt4o,RPC,5,0.01781605343457209,0.0,4.0
+L5_session,Session (L5),gpt5.6,NFS,5,0.7745721202105548,1.0,1.0
+L5_session,Session (L5),gpt5.6,SMB,5,0.17760738425602013,0.0,2.0
+L5_session,Session (L5),gpt5.6,NetBIOS,5,0.024756167921183812,0.0,3.2
+L5_session,Session (L5),gpt5.6,RPC,5,0.02306432761224118,0.0,3.8
+L5_session,Session (L5),llama70B,NFS,5,0.6896563266950604,1.0,1.0
+L5_session,Session (L5),llama70B,SMB,5,0.2476560777886599,0.0,2.0
+L5_session,Session (L5),llama70B,NetBIOS,5,0.04916222456637775,0.0,3.0
+L5_session,Session (L5),llama70B,RPC,5,0.013525370949901893,0.0,4.0
+L5_session,Session (L5),llama8B,NFS,5,0.6503246429323543,0.8,1.2
+L5_session,Session (L5),llama8B,SMB,5,0.186291422076637,0.0,2.2
+L5_session,Session (L5),llama8B,RPC,5,0.09983615767657358,0.2,3.2
+L5_session,Session (L5),llama8B,NetBIOS,5,0.06354777731443503,0.0,3.4
+L5_session,Session (L5),mistral-large-3,SMB,5,0.5775440768822123,0.6,1.4
+L5_session,Session (L5),mistral-large-3,NFS,5,0.36618828344741,0.4,1.6
+L5_session,Session (L5),mistral-large-3,NetBIOS,5,0.04736583608407848,0.0,3.0
+L5_session,Session (L5),mistral-large-3,RPC,5,0.008901803586299203,0.0,4.0
+L6_presentation,Presentation (L6),gpt4o,SSL/TLS,5,0.9997420859879925,1.0,1.0
+L6_presentation,Presentation (L6),gpt4o,ASCII,5,0.00021556043687979932,0.0,2.0
+L6_presentation,Presentation (L6),gpt4o,JPEG,5,3.984357764732869e-05,0.0,3.2
+L6_presentation,Presentation (L6),gpt4o,MPEG,5,2.509997480286631e-06,0.0,3.8
+L6_presentation,Presentation (L6),gpt5.6,SSL/TLS,5,0.9996658775066749,1.0,1.0
+L6_presentation,Presentation (L6),gpt5.6,ASCII,5,0.0002758583674440032,0.0,2.0
+L6_presentation,Presentation (L6),gpt5.6,JPEG,5,5.045854812337883e-05,0.0,3.0
+L6_presentation,Presentation (L6),gpt5.6,MPEG,5,7.805577757664387e-06,0.0,4.0
+L6_presentation,Presentation (L6),llama70B,SSL/TLS,5,0.9992033140821113,1.0,1.0
+L6_presentation,Presentation (L6),llama70B,ASCII,5,0.0006863615304580723,0.0,2.2
+L6_presentation,Presentation (L6),llama70B,JPEG,5,0.00010907796372712081,0.0,2.8
+L6_presentation,Presentation (L6),llama70B,MPEG,5,1.2464237035563443e-06,0.0,4.0
+L6_presentation,Presentation (L6),llama8B,SSL/TLS,5,0.9989544104510228,1.0,1.0
+L6_presentation,Presentation (L6),llama8B,ASCII,5,0.0010122737999969573,0.0,2.0
+L6_presentation,Presentation (L6),llama8B,JPEG,5,2.982732716481731e-05,0.0,3.4
+L6_presentation,Presentation (L6),llama8B,MPEG,5,3.4884218154296494e-06,0.0,3.6
+L6_presentation,Presentation (L6),mistral-large-3,SSL/TLS,5,0.9945239359914622,1.0,1.0
+L6_presentation,Presentation (L6),mistral-large-3,ASCII,5,0.005396189819038777,0.0,2.0
+L6_presentation,Presentation (L6),mistral-large-3,JPEG,5,7.78355802033112e-05,0.0,3.0
+L6_presentation,Presentation (L6),mistral-large-3,MPEG,5,2.038609295717966e-06,0.0,4.0
+L7_application,Application (L7),gpt4o,SMTP,5,0.9555940605718419,1.0,1.0
+L7_application,Application (L7),gpt4o,HTTP,5,0.036290028101734866,0.0,2.2
+L7_application,Application (L7),gpt4o,FTP,5,0.0026993469656127695,0.0,3.2
+L7_application,Application (L7),gpt4o,DNS,5,0.005416564360810471,0.0,3.6
+L7_application,Application (L7),gpt5.6,SMTP,5,0.9586333266299999,1.0,1.0
+L7_application,Application (L7),gpt5.6,HTTP,5,0.03554571343284127,0.0,2.0
+L7_application,Application (L7),gpt5.6,DNS,5,0.003973534698011897,0.0,3.2
+L7_application,Application (L7),gpt5.6,FTP,5,0.0018474252391470175,0.0,3.8
+L7_application,Application (L7),llama70B,SMTP,5,0.9595038119999197,1.0,1.0
+L7_application,Application (L7),llama70B,HTTP,5,0.03802255322436173,0.0,2.0
+L7_application,Application (L7),llama70B,FTP,5,0.001757033627996949,0.0,3.2
+L7_application,Application (L7),llama70B,DNS,5,0.0007166011477215673,0.0,3.8
+L7_application,Application (L7),llama8B,SMTP,5,0.9449219807408102,1.0,1.0
+L7_application,Application (L7),llama8B,HTTP,5,0.050501023615063166,0.0,2.0
+L7_application,Application (L7),llama8B,FTP,5,0.00220730541562638,0.0,3.4
+L7_application,Application (L7),llama8B,DNS,5,0.002369690228500313,0.0,3.6
+L7_application,Application (L7),mistral-large-3,SMTP,5,0.9143451244805687,1.0,1.0
+L7_application,Application (L7),mistral-large-3,HTTP,5,0.08258593927571937,0.0,2.2
+L7_application,Application (L7),mistral-large-3,FTP,5,0.0023989282510306375,0.0,3.2
+L7_application,Application (L7),mistral-large-3,DNS,5,0.0006700079926811739,0.0,3.6
+X_cloud_development,Cloud Development,gpt4o,Kubernetes,5,0.9987746775453695,1.0,1.0
+X_cloud_development,Cloud Development,gpt4o,AWS,5,0.0005453209242091235,0.0,2.2
+X_cloud_development,Cloud Development,gpt4o,pip,5,0.0004057459760683643,0.0,3.6
+X_cloud_development,Cloud Development,gpt4o,Docker,5,0.00021366519750485295,0.0,3.6
+X_cloud_development,Cloud Development,gpt4o,npm,5,6.05903568480494e-05,0.0,4.6
+X_cloud_development,Cloud Development,gpt5.6,Kubernetes,5,0.9970008316212218,1.0,1.0
+X_cloud_development,Cloud Development,gpt5.6,AWS,5,0.002373140438981296,0.0,2.0
+X_cloud_development,Cloud Development,gpt5.6,Docker,5,0.00043897053195861134,0.0,3.0
+X_cloud_development,Cloud Development,gpt5.6,pip,5,0.00011962643006013267,0.0,4.4
+X_cloud_development,Cloud Development,gpt5.6,npm,5,6.743097777824258e-05,0.0,4.6
+X_cloud_development,Cloud Development,llama70B,Kubernetes,5,0.9995400625732345,1.0,1.0
+X_cloud_development,Cloud Development,llama70B,AWS,5,7.803261594600567e-05,0.0,3.2
+X_cloud_development,Cloud Development,llama70B,npm,5,0.0002301034671776545,0.0,3.4
+X_cloud_development,Cloud Development,llama70B,Docker,5,9.419609511901944e-05,0.0,3.6
+X_cloud_development,Cloud Development,llama70B,pip,5,5.760524852289522e-05,0.0,3.8
+X_cloud_development,Cloud Development,llama8B,Kubernetes,5,0.9974721674388427,1.0,1.0
+X_cloud_development,Cloud Development,llama8B,npm,5,0.0011759243105742769,0.0,3.0
+X_cloud_development,Cloud Development,llama8B,Docker,5,0.000531409587633961,0.0,3.0
+X_cloud_development,Cloud Development,llama8B,AWS,5,0.00045759838720884586,0.0,3.4
+X_cloud_development,Cloud Development,llama8B,pip,5,0.00036290027574017785,0.0,4.6
+X_cloud_development,Cloud Development,mistral-large-3,Kubernetes,5,0.9787609456646331,1.0,1.0
+X_cloud_development,Cloud Development,mistral-large-3,AWS,5,0.01796883505741586,0.0,3.0
+X_cloud_development,Cloud Development,mistral-large-3,Docker,5,0.0015392863192399044,0.0,3.4
+X_cloud_development,Cloud Development,mistral-large-3,npm,5,0.0010607032963882157,0.0,3.4
+X_cloud_development,Cloud Development,mistral-large-3,pip,5,0.0006702296623229334,0.0,4.2
+X_database,Databases,gpt4o,Redis,5,0.49740378334396096,1.0,1.0
+X_database,Databases,gpt4o,PostgreSQL,5,0.31184554808585274,0.0,2.0
+X_database,Databases,gpt4o,SQLite,5,0.12019168504673841,0.0,3.2
+X_database,Databases,gpt4o,Microsoft SQL Server,5,0.06867169916791774,0.0,3.8
+X_database,Databases,gpt4o,MySQL,5,0.0018872843555300957,0.0,5.0
+X_database,Databases,gpt5.6,Redis,5,0.45826078622726046,1.0,1.0
+X_database,Databases,gpt5.6,PostgreSQL,5,0.4205003844297434,0.0,2.0
+X_database,Databases,gpt5.6,SQLite,5,0.09988941005583316,0.0,3.0
+X_database,Databases,gpt5.6,Microsoft SQL Server,5,0.021256617652347702,0.0,4.0
+X_database,Databases,gpt5.6,MySQL,5,9.280163481524716e-05,0.0,5.0
+X_database,Databases,llama70B,Redis,5,0.45792219210444396,0.8,1.2
+X_database,Databases,llama70B,PostgreSQL,5,0.4111821781224926,0.2,1.8
+X_database,Databases,llama70B,SQLite,5,0.09184135470848487,0.0,3.0
+X_database,Databases,llama70B,Microsoft SQL Server,5,0.038436878604938364,0.0,4.0
+X_database,Databases,llama70B,MySQL,5,0.0006173964596402064,0.0,5.0
+X_database,Databases,llama8B,Redis,5,0.4334407983316349,0.8,1.2
+X_database,Databases,llama8B,PostgreSQL,5,0.3990547858375973,0.2,1.8
+X_database,Databases,llama8B,SQLite,5,0.1092309484117538,0.0,3.0
+X_database,Databases,llama8B,Microsoft SQL Server,5,0.05162555117062297,0.0,4.0
+X_database,Databases,llama8B,MySQL,5,0.006647916248391042,0.0,5.0
+X_database,Databases,mistral-large-3,PostgreSQL,5,0.46944137469399577,0.6,1.4
+X_database,Databases,mistral-large-3,Redis,5,0.38414454198759984,0.4,1.6
+X_database,Databases,mistral-large-3,SQLite,5,0.10732103438860958,0.0,3.0
+X_database,Databases,mistral-large-3,Microsoft SQL Server,5,0.03900300227496173,0.0,4.0
+X_database,Databases,mistral-large-3,MySQL,5,9.004665483301015e-05,0.0,5.0
+X_ide,Development Environments,gpt4o,Visual Studio,5,0.6781728936187683,1.0,1.0
+X_ide,Development Environments,gpt4o,IntelliJ IDEA,5,0.24538442765535634,0.0,2.0
+X_ide,Development Environments,gpt4o,Visual Studio Code,5,0.06707012704602852,0.0,3.0
+X_ide,Development Environments,gpt4o,Notepad++,5,0.00933687635170501,0.0,4.0
+X_ide,Development Environments,gpt4o,Vim,5,3.567532814182796e-05,0.0,5.0
+X_ide,Development Environments,gpt5.6,Visual Studio,5,0.7554677577499477,1.0,1.0
+X_ide,Development Environments,gpt5.6,IntelliJ IDEA,5,0.1836451332832293,0.0,2.0
+X_ide,Development Environments,gpt5.6,Visual Studio Code,5,0.052398595516877644,0.0,3.0
+X_ide,Development Environments,gpt5.6,Notepad++,5,0.00846700296447285,0.0,4.0
+X_ide,Development Environments,gpt5.6,Vim,5,2.1510485472479043e-05,0.0,5.0
+X_ide,Development Environments,llama70B,Visual Studio,5,0.6970292681605137,1.0,1.0
+X_ide,Development Environments,llama70B,IntelliJ IDEA,5,0.25410126012445794,0.0,2.0
+X_ide,Development Environments,llama70B,Visual Studio Code,5,0.03537533243872606,0.0,3.2
+X_ide,Development Environments,llama70B,Notepad++,5,0.013470692296439764,0.0,3.8
+X_ide,Development Environments,llama70B,Vim,5,2.344697986260787e-05,0.0,5.0
+X_ide,Development Environments,llama8B,Visual Studio,5,0.7325830281283848,1.0,1.0
+X_ide,Development Environments,llama8B,IntelliJ IDEA,5,0.14482704526126092,0.0,2.2
+X_ide,Development Environments,llama8B,Visual Studio Code,5,0.1166560361211596,0.0,2.8
+X_ide,Development Environments,llama8B,Notepad++,5,0.005854741904735466,0.0,4.0
+X_ide,Development Environments,llama8B,Vim,5,7.914858445918595e-05,0.0,5.0
+X_ide,Development Environments,mistral-large-3,Visual Studio,5,0.584081305358699,0.8,1.2
+X_ide,Development Environments,mistral-large-3,IntelliJ IDEA,5,0.3199400513766158,0.2,1.8
+X_ide,Development Environments,mistral-large-3,Visual Studio Code,5,0.09057958216190512,0.0,3.0
+X_ide,Development Environments,mistral-large-3,Notepad++,5,0.005397284800513352,0.0,4.0
+X_ide,Development Environments,mistral-large-3,Vim,5,1.776302266845079e-06,0.0,5.0
+X_language,Languages,gpt4o,HTML/CSS,5,0.9585490934207737,1.0,1.0
+X_language,Languages,gpt4o,Bash/Shell,5,0.03898904459883081,0.0,2.0
+X_language,Languages,gpt4o,JavaScript,5,0.0013381594392308088,0.0,3.6
+X_language,Languages,gpt4o,Python,5,0.0010254531465580259,0.0,3.6
+X_language,Languages,gpt4o,SQL,5,9.824939460656799e-05,0.0,4.8
+X_language,Languages,gpt5.6,HTML/CSS,5,0.9210314372663102,1.0,1.0
+X_language,Languages,gpt5.6,Bash/Shell,5,0.05170094896851072,0.0,2.0
+X_language,Languages,gpt5.6,Python,5,0.02195097760813296,0.0,3.2
+X_language,Languages,gpt5.6,JavaScript,5,0.0034149704075651286,0.0,4.0
+X_language,Languages,gpt5.6,SQL,5,0.0019016657494809609,0.0,4.8
+X_language,Languages,llama70B,HTML/CSS,5,0.9318720997771711,1.0,1.0
+X_language,Languages,llama70B,Bash/Shell,5,0.05503419367461967,0.0,2.0
+X_language,Languages,llama70B,Python,5,0.009041941289297117,0.0,3.2
+X_language,Languages,llama70B,JavaScript,5,0.003962802278432574,0.0,3.8
+X_language,Languages,llama70B,SQL,5,8.896298047937604e-05,0.0,5.0
+X_language,Languages,llama8B,HTML/CSS,5,0.9642115390301189,1.0,1.0
+X_language,Languages,llama8B,Bash/Shell,5,0.03534078549476439,0.0,2.0
+X_language,Languages,llama8B,JavaScript,5,0.00029666536550734997,0.0,3.0
+X_language,Languages,llama8B,Python,5,9.979445293036934e-05,0.0,4.2
+X_language,Languages,llama8B,SQL,5,5.1215656678925535e-05,0.0,4.8
+X_language,Languages,mistral-large-3,HTML/CSS,5,0.9225818687563624,1.0,1.0
+X_language,Languages,mistral-large-3,Bash/Shell,5,0.06392305834034069,0.0,2.0
+X_language,Languages,mistral-large-3,Python,5,0.007463525128597508,0.0,3.4
+X_language,Languages,mistral-large-3,JavaScript,5,0.0022655576305556117,0.0,4.0
+X_language,Languages,mistral-large-3,SQL,5,0.003765990144143875,0.0,4.6
+X_web_technology,Web Technologies,gpt4o,Node.js,5,0.993501352436575,1.0,1.0
+X_web_technology,Web Technologies,gpt4o,Next.js,5,0.004060342582108134,0.0,2.2
+X_web_technology,Web Technologies,gpt4o,React,5,0.0016569148355366956,0.0,2.8
+X_web_technology,Web Technologies,gpt4o,jQuery,5,0.0005946019228290501,0.0,4.2
+X_web_technology,Web Technologies,gpt4o,Express,5,0.00018678822295113627,0.0,4.8
+X_web_technology,Web Technologies,gpt5.6,Node.js,5,0.993666595960471,1.0,1.0
+X_web_technology,Web Technologies,gpt5.6,Next.js,5,0.0032478426234088887,0.0,2.4
+X_web_technology,Web Technologies,gpt5.6,React,5,0.002132876472559348,0.0,3.0
+X_web_technology,Web Technologies,gpt5.6,jQuery,5,0.0008249871052770587,0.0,4.0
+X_web_technology,Web Technologies,gpt5.6,Express,5,0.0001276978382836515,0.0,4.6
+X_web_technology,Web Technologies,llama70B,Node.js,5,0.9945146360984619,1.0,1.0
+X_web_technology,Web Technologies,llama70B,React,5,0.0024437739464701863,0.0,2.4
+X_web_technology,Web Technologies,llama70B,Next.js,5,0.002428314112051829,0.0,2.6
+X_web_technology,Web Technologies,llama70B,jQuery,5,0.0002826195395610749,0.0,4.2
+X_web_technology,Web Technologies,llama70B,Express,5,0.0003306563034550402,0.0,4.8
+X_web_technology,Web Technologies,llama8B,Node.js,5,0.9903319363605982,1.0,1.0
+X_web_technology,Web Technologies,llama8B,Next.js,5,0.003993311355074136,0.0,2.4
+X_web_technology,Web Technologies,llama8B,React,5,0.005011776729973147,0.0,2.6
+X_web_technology,Web Technologies,llama8B,jQuery,5,0.00044440716068878505,0.0,4.2
+X_web_technology,Web Technologies,llama8B,Express,5,0.00021856839366564732,0.0,4.8
+X_web_technology,Web Technologies,mistral-large-3,Node.js,5,0.993908669048911,1.0,1.0
+X_web_technology,Web Technologies,mistral-large-3,Next.js,5,0.0038413940273163937,0.0,2.0
+X_web_technology,Web Technologies,mistral-large-3,React,5,0.0012400519941364622,0.0,3.2
+X_web_technology,Web Technologies,mistral-large-3,jQuery,5,0.0005637153748408896,0.0,4.4
+X_web_technology,Web Technologies,mistral-large-3,Express,5,0.00044616955479528686,0.0,4.4

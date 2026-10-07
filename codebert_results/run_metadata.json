@@ -1,0 +1,94 @@
+{
+  "model": "microsoft/codebert-base-mlm",
+  "seed": 42,
+  "input_csv": "preliminary_sample_300.csv",
+  "number_of_frames": 300,
+  "number_of_categories": 12,
+  "scoring_method": "candidate-token pseudo-log-likelihood; one candidate token masked at a time; mean token log-probability used as length-normalized candidate score",
+  "within_frame_normalization": "softmax across candidates in the same axis",
+  "axis_candidates": {
+    "L1_physical": [
+      "USB",
+      "Ethernet",
+      "Bluetooth",
+      "NFC"
+    ],
+    "L2_data_link": [
+      "HDLC",
+      "Ethernet",
+      "Wi-Fi",
+      "PPP"
+    ],
+    "L3_network": [
+      "IP",
+      "ICMP",
+      "IGMP",
+      "IPsec"
+    ],
+    "L4_transport": [
+      "TCP",
+      "UDP",
+      "SCTP",
+      "QUIC"
+    ],
+    "L5_session": [
+      "NFS",
+      "SMB",
+      "NetBIOS",
+      "RPC"
+    ],
+    "L6_presentation": [
+      "SSL/TLS",
+      "JPEG",
+      "MPEG",
+      "ASCII"
+    ],
+    "L7_application": [
+      "HTTP",
+      "FTP",
+      "DNS",
+      "SMTP"
+    ],
+    "X_language": [
+      "JavaScript",
+      "HTML/CSS",
+      "SQL",
+      "Python",
+      "Bash/Shell"
+    ],
+    "X_database": [
+      "PostgreSQL",
+      "MySQL",
+      "SQLite",
+      "Microsoft SQL Server",
+      "Redis"
+    ],
+    "X_cloud_development": [
+      "Docker",
+      "npm",
+      "AWS",
+      "pip",
+      "Kubernetes"
+    ],
+    "X_web_technology": [
+      "Node.js",
+      "React",
+      "jQuery",
+      "Next.js",
+      "Express"
+    ],
+    "X_ide": [
+      "Visual Studio Code",
+      "Visual Studio",
+      "Notepad++",
+      "IntelliJ IDEA",
+      "Vim"
+    ]
+  },
+  "statistical_tests": {
+    "omnibus": "Friedman test across matched frame scores",
+    "axis_multiple_testing": "Holm correction across 12 axis-level tests",
+    "effect_size": "Kendall's W",
+    "pairwise": "Wilcoxon signed-rank tests with Holm correction"
+  }
+}
